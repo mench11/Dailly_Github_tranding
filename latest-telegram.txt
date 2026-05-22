@@ -1,0 +1,8 @@
+📊 GitHub Daily Trending — Relay Test
+
+This is a test of the GitHub Actions → n8n webhook → Telegram relay.
+
+If you see this message in @siulee1293941123123bot, the full pipeline works:
+  Routine sandbox → GitHub commit → GitHub Action → n8n webhook → Telegram
+
+Timestamp: 2026-05-22T07:37:50Z
