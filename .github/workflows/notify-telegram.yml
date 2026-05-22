@@ -1,0 +1,43 @@
+name: Send daily report to Telegram
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'latest-telegram.txt'
+  workflow_dispatch:
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build Telegram payload
+        run: |
+          python3 - <<'PY'
+          import json, os
+          text = open('latest-telegram.txt', encoding='utf-8').read()
+          # Telegram max is 4096 chars; leave some margin
+          if len(text) > 4000:
+              text = text[:3990] + '…(truncated)'
+          chat_id = int(os.environ['TG_CHAT_ID'])
+          open('payload.json', 'w', encoding='utf-8').write(
+              json.dumps({'chat_id': chat_id, 'text': text}, ensure_ascii=False)
+          )
+          print(f'Payload bytes: {len(open("payload.json","rb").read())}')
+          PY
+        env:
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+
+      - name: Send via n8n webhook
+        run: |
+          set -e
+          curl -sS -w '\nHTTP %{http_code}\n' \
+            -X POST 'https://n8n2.ztoagroup.com/webhook/tg-send-for-mch-notification' \
+            -u "$TG_WEBHOOK_USER:$TG_WEBHOOK_PASS" \
+            -H 'Content-Type: application/json' \
+            --data-binary @payload.json
+        env:
+          TG_WEBHOOK_USER: ${{ secrets.TG_WEBHOOK_USER }}
+          TG_WEBHOOK_PASS: ${{ secrets.TG_WEBHOOK_PASS }}
