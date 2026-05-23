@@ -1,8 +1,33 @@
-📊 GitHub Daily Trending — Relay Test
+📊 GitHub 每日趨勢 Daily Trending — 2026-05-23
 
-This is a test of the GitHub Actions → n8n webhook → Telegram relay.
+1. anthropics/claude-plugins-official
+⭐ 25,442 | 🔥 今日 +2,549 | 💻 Python
+🔗 https://github.com/anthropics/claude-plugins-official
+📝 Anthropic 官方 Claude Code Plugin 目錄，收錄品質審核的擴充功能，開發者可直接安裝使用。
 
-If you see this message in @siulee1293941123123bot, the full pipeline works:
-  Routine sandbox → GitHub commit → GitHub Action → n8n webhook → Telegram
+2. colbymchenry/codegraph
+⭐ 17,280 | 🔥 今日 +3,684 | 💻 TypeScript
+🔗 https://github.com/colbymchenry/codegraph
+📝 為程式碼庫預建知識圖譜索引，讓 AI coding agent 大幅減少 token 消耗，完全本機運作。
 
-Timestamp: 2026-05-22T07:37:50Z
+3. ruvnet/RuView
+⭐ 64,223 | 🔥 今日 +978 | 💻 Rust
+🔗 https://github.com/ruvnet/RuView
+📝 用 Rust 將 WiFi 訊號轉化為空間感知與生命徵象監測能力，無需任何攝影機，保護隱私。
+
+4. rohitg00/ai-engineering-from-scratch
+⭐ 12,357 | 🔥 今日 +988 | 💻 Python
+🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+📝 從零學習 AI 工程的 Python 開源課程，涵蓋 LLM、RAG、agent 並強調實際打造與部署。
+
+5. ChromeDevTools/chrome-devtools-mcp
+⭐ 41,083 | 🔥 今日 +501 | 💻 TypeScript
+🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
+📝 Chrome DevTools 官方 MCP 伺服器，讓 AI agent 直接透過 MCP 操控瀏覽器除錯工具。
+
+6. dotnet/skills
+⭐ 2,606 | 🔥 今日 +389 | 💻 C#
+🔗 https://github.com/dotnet/skills
+📝 Microsoft 官方 .NET/C# Skill 倉庫，協助 AI coding agent 更精準處理 .NET 開發任務。
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-23.md
