@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-05-23
+📊 GitHub 每日趨勢 Daily Trending — 2026-05-24
 
-1. anthropics/claude-plugins-official
-⭐ 25,442 | 🔥 今日 +2,549 | 💻 Python
+1. Lum1104/Understand-Anything
+⭐ 22650 | 🔥 今日 +2299 | 💻 TypeScript
+🔗 https://github.com/Lum1104/Understand-Anything
+📝 以 TypeScript 將程式碼庫轉為可互動知識圖譜，支援 Claude Code、Cursor、Copilot 等 AI 編輯器，新工程師接手大型專案時可快速理解模組依賴關係。
+
+2. anthropics/claude-plugins-official
+⭐ 26789 | 🔥 今日 +2193 | 💻 Python
 🔗 https://github.com/anthropics/claude-plugins-official
-📝 Anthropic 官方 Claude Code Plugin 目錄，收錄品質審核的擴充功能，開發者可直接安裝使用。
+📝 Anthropic 官方 Claude Code Plugin 目錄，收錄審核過的高品質 plugin；企業可在 CI/CD 流程中直接安裝，實現 AI 輔助程式碼審查。
 
-2. colbymchenry/codegraph
-⭐ 17,280 | 🔥 今日 +3,684 | 💻 TypeScript
+3. colbymchenry/codegraph
+⭐ 20324 | 🔥 今日 +2456 | 💻 TypeScript
 🔗 https://github.com/colbymchenry/codegraph
-📝 為程式碼庫預建知識圖譜索引，讓 AI coding agent 大幅減少 token 消耗，完全本機運作。
-
-3. ruvnet/RuView
-⭐ 64,223 | 🔥 今日 +978 | 💻 Rust
-🔗 https://github.com/ruvnet/RuView
-📝 用 Rust 將 WiFi 訊號轉化為空間感知與生命徵象監測能力，無需任何攝影機，保護隱私。
+📝 本機預建索引的 TypeScript 知識圖譜，讓 Claude Code、Cursor 以更少 token 完成任務，大型 monorepo 專案可大幅降低 AI 查詢成本且資料不離機。
 
 4. rohitg00/ai-engineering-from-scratch
-⭐ 12,357 | 🔥 今日 +988 | 💻 Python
+⭐ 14178 | 🔥 今日 +1521 | 💻 Python
 🔗 https://github.com/rohitg00/ai-engineering-from-scratch
-📝 從零學習 AI 工程的 Python 開源課程，涵蓋 LLM、RAG、agent 並強調實際打造與部署。
+📝 以 Python 為主的 AI 工程完整學習路徑，涵蓋 LLM、RAG、agent；後端開發者可跟著教材從零建立 RAG 問答系統並實際部署上線。
 
-5. ChromeDevTools/chrome-devtools-mcp
-⭐ 41,083 | 🔥 今日 +501 | 💻 TypeScript
-🔗 https://github.com/ChromeDevTools/chrome-devtools-mcp
-📝 Chrome DevTools 官方 MCP 伺服器，讓 AI agent 直接透過 MCP 操控瀏覽器除錯工具。
+5. Fincept-Corporation/FinceptTerminal
+⭐ 23239 | 🔥 今日 +545 | 💻 Python
+🔗 https://github.com/Fincept-Corporation/FinceptTerminal
+📝 Python 打造的現代金融終端機 GUI，整合市場分析與經濟數據；量化交易員可在 CLI 環境一次瀏覽股票走勢與自訂 API 資料，替代昂貴 Bloomberg。
 
-6. dotnet/skills
-⭐ 2,606 | 🔥 今日 +389 | 💻 C#
-🔗 https://github.com/dotnet/skills
-📝 Microsoft 官方 .NET/C# Skill 倉庫，協助 AI coding agent 更精準處理 .NET 開發任務。
+6. multica-ai/andrej-karpathy-skills
+⭐ 150266 | 🔥 今日 +3507 | 💻 N/A
+🔗 https://github.com/multica-ai/andrej-karpathy-skills
+📝 單一 CLAUDE.md 設定檔，源自 Andrej Karpathy 對 LLM 程式碼陷阱的觀察；放入專案根目錄即可讓 Claude Code 自動迴避 PyTorch GPU 記憶體等常見錯誤。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-23.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-24.md
