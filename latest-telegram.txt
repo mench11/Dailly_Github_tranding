@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-05-24
+📊 GitHub 每日趨勢 Daily Trending — 2026-05-25
 
 1. Lum1104/Understand-Anything
-⭐ 22650 | 🔥 今日 +2299 | 💻 TypeScript
+⭐ 27811 | 🔥 今日 +3999 | 💻 TypeScript
 🔗 https://github.com/Lum1104/Understand-Anything
-📝 以 TypeScript 將程式碼庫轉為可互動知識圖譜，支援 Claude Code、Cursor、Copilot 等 AI 編輯器，新工程師接手大型專案時可快速理解模組依賴關係。
+📝 互動式程式碼知識圖譜工具，將任意程式碼庫轉化為可探索的視覺化圖，相容 Claude Code、Cursor、Copilot 等主流 AI 助理，適合工程師快速掌握大型專案架構。
 
-2. anthropics/claude-plugins-official
-⭐ 26789 | 🔥 今日 +2193 | 💻 Python
-🔗 https://github.com/anthropics/claude-plugins-official
-📝 Anthropic 官方 Claude Code Plugin 目錄，收錄審核過的高品質 plugin；企業可在 CI/CD 流程中直接安裝，實現 AI 輔助程式碼審查。
-
-3. colbymchenry/codegraph
-⭐ 20324 | 🔥 今日 +2456 | 💻 TypeScript
-🔗 https://github.com/colbymchenry/codegraph
-📝 本機預建索引的 TypeScript 知識圖譜，讓 Claude Code、Cursor 以更少 token 完成任務，大型 monorepo 專案可大幅降低 AI 查詢成本且資料不離機。
-
-4. rohitg00/ai-engineering-from-scratch
-⭐ 14178 | 🔥 今日 +1521 | 💻 Python
+2. rohitg00/ai-engineering-from-scratch
+⭐ 17011 | 🔥 今日 +1853 | 💻 Python
 🔗 https://github.com/rohitg00/ai-engineering-from-scratch
-📝 以 Python 為主的 AI 工程完整學習路徑，涵蓋 LLM、RAG、agent；後端開發者可跟著教材從零建立 RAG 問答系統並實際部署上線。
+📝 系統性 AI 工程學習資源庫，涵蓋 LLM、RAG、agent 等完整學習路徑，強調實戰導向，適合想轉職 AI 工程師或補強知識的 Python 開發者。
 
-5. Fincept-Corporation/FinceptTerminal
-⭐ 23239 | 🔥 今日 +545 | 💻 Python
-🔗 https://github.com/Fincept-Corporation/FinceptTerminal
-📝 Python 打造的現代金融終端機 GUI，整合市場分析與經濟數據；量化交易員可在 CLI 環境一次瀏覽股票走勢與自訂 API 資料，替代昂貴 Bloomberg。
+3. anthropics/claude-plugins-official
+⭐ 27488 | 🔥 今日 +1173 | 💻 Python
+🔗 https://github.com/anthropics/claude-plugins-official
+📝 Anthropic 官方維護的 Claude Code Plugins 目錄，收錄經品質審核的高品質 plugin，讓開發者快速擴充 Claude Code CLI 工作流，例如自動化 code review。
 
-6. multica-ai/andrej-karpathy-skills
-⭐ 150266 | 🔥 今日 +3507 | 💻 N/A
+4. anthropics/knowledge-work-plugins
+⭐ 14356 | 🔥 今日 +550 | 💻 Python
+🔗 https://github.com/anthropics/knowledge-work-plugins
+📝 Anthropic 開源的知識型工作 plugin 集合，透過 MCP 協定整合外部資料來源，協助法務、研究人員等知識工作者用 Claude Code 自動產出結構化報告。
+
+5. multica-ai/andrej-karpathy-skills
+⭐ 152932 | 🔥 今日 +2551 | 💻 N/A
 🔗 https://github.com/multica-ai/andrej-karpathy-skills
-📝 單一 CLAUDE.md 設定檔，源自 Andrej Karpathy 對 LLM 程式碼陷阱的觀察；放入專案根目錄即可讓 Claude Code 自動迴避 PyTorch GPU 記憶體等常見錯誤。
+📝 彙整 Andrej Karpathy 對 LLM 編程陷阱觀察的 CLAUDE.md 設定檔，無需安裝套件，直接放入專案根目錄即可讓 Claude Code 遵循更嚴謹的編程規範。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-24.md
+6. earendil-works/pi
+⭐ 54165 | 🔥 今日 +456 | 💻 TypeScript
+🔗 https://github.com/earendil-works/pi
+📝 全方位 AI agent 工具包，以 TypeScript 整合 coding agent CLI、統一 LLM API、TUI/Web UI 函式庫、Slack bot 及 vLLM pod 管理，適合 DevOps 快速搭建 AI 助理。
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-25.md
