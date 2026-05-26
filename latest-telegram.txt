@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-05-25
+📊 GitHub 每日趨勢 Daily Trending — 2026-05-26
 
 1. Lum1104/Understand-Anything
-⭐ 27811 | 🔥 今日 +3999 | 💻 TypeScript
+⭐ N/A | 🔥 今日 +5,604 | 💻 TypeScript
 🔗 https://github.com/Lum1104/Understand-Anything
-📝 互動式程式碼知識圖譜工具，將任意程式碼庫轉化為可探索的視覺化圖，相容 Claude Code、Cursor、Copilot 等主流 AI 助理，適合工程師快速掌握大型專案架構。
+📝 TypeScript 打造的互動式程式碼知識圖譜，支援 Claude Code、Codex、Cursor 等 AI 工具，讓開發者快速掌握陌生專案架構，適合大型 monorepo 新成員上手。
 
-2. rohitg00/ai-engineering-from-scratch
-⭐ 17011 | 🔥 今日 +1853 | 💻 Python
-🔗 https://github.com/rohitg00/ai-engineering-from-scratch
-📝 系統性 AI 工程學習資源庫，涵蓋 LLM、RAG、agent 等完整學習路徑，強調實戰導向，適合想轉職 AI 工程師或補強知識的 Python 開發者。
-
-3. anthropics/claude-plugins-official
-⭐ 27488 | 🔥 今日 +1173 | 💻 Python
-🔗 https://github.com/anthropics/claude-plugins-official
-📝 Anthropic 官方維護的 Claude Code Plugins 目錄，收錄經品質審核的高品質 plugin，讓開發者快速擴充 Claude Code CLI 工作流，例如自動化 code review。
-
-4. anthropics/knowledge-work-plugins
-⭐ 14356 | 🔥 今日 +550 | 💻 Python
+2. anthropics/knowledge-work-plugins
+⭐ N/A | 🔥 今日 +1,441 | 💻 Python
 🔗 https://github.com/anthropics/knowledge-work-plugins
-📝 Anthropic 開源的知識型工作 plugin 集合，透過 MCP 協定整合外部資料來源，協助法務、研究人員等知識工作者用 Claude Code 自動產出結構化報告。
+📝 Anthropic 官方開源的知識工作者 Python plugin 集合，整合文件管理與搜尋工具進 Claude 工作流程，適合法律、顧問公司讓 AI agent 自動彙整合約摘要。
 
-5. multica-ai/andrej-karpathy-skills
-⭐ 152932 | 🔥 今日 +2551 | 💻 N/A
-🔗 https://github.com/multica-ai/andrej-karpathy-skills
-📝 彙整 Andrej Karpathy 對 LLM 編程陷阱觀察的 CLAUDE.md 設定檔，無需安裝套件，直接放入專案根目錄即可讓 Claude Code 遵循更嚴謹的編程規範。
+3. rohitg00/ai-engineering-from-scratch
+⭐ N/A | 🔥 今日 +3,154 | 💻 Python
+🔗 https://github.com/rohitg00/ai-engineering-from-scratch
+📝 從零學 AI 工程的 Python 課程倉庫，涵蓋 LLM、RAG、agent、embedding、fine-tuning，適合後端工程師轉型，最終可獨立上線企業級 AI 客服系統。
 
-6. earendil-works/pi
-⭐ 54165 | 🔥 今日 +456 | 💻 TypeScript
-🔗 https://github.com/earendil-works/pi
-📝 全方位 AI agent 工具包，以 TypeScript 整合 coding agent CLI、統一 LLM API、TUI/Web UI 函式庫、Slack bot 及 vLLM pod 管理，適合 DevOps 快速搭建 AI 助理。
+4. affaan-m/ECC
+⭐ N/A | 🔥 今日 +2,025 | 💻 JavaScript
+🔗 https://github.com/affaan-m/ECC
+📝 JavaScript 開發的 agent 效能最佳化框架，為 Claude Code、Codex、Cursor 提供技能、記憶與安全機制，讓 AI agent 在複雜 CI/CD 流程中穩定執行自動化任務。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-25.md
+5. mukul975/Anthropic-Cybersecurity-Skills
+⭐ N/A | 🔥 今日 +1,004 | 💻 Python
+🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+📝 754 個結構化資安技能的 Python 倉庫，對應 MITRE ATT&CK 等五大框架，支援 Claude Code、Copilot 等 20+ 平台，讓 AI agent 自動執行威脅偵測與事件回應。
+
+6. colbymchenry/codegraph
+⭐ N/A | 🔥 今日 +3,161 | 💻 TypeScript
+🔗 https://github.com/colbymchenry/codegraph
+📝 TypeScript 預索引程式碼知識圖譜，讓 Claude Code、Codex、Cursor 用更少 token 理解整個程式碼庫，100% 本地運行，金融機構可安全使用於大規模程式碼重構。
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-26.md
