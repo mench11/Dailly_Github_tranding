@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-05-26
+📊 GitHub 每日趨勢 Daily Trending — 2026-05-27
 
 1. Lum1104/Understand-Anything
-⭐ N/A | 🔥 今日 +5,604 | 💻 TypeScript
+⭐ 37,165 | 🔥 今日 +4,697 | 💻 TypeScript
 🔗 https://github.com/Lum1104/Understand-Anything
-📝 TypeScript 打造的互動式程式碼知識圖譜，支援 Claude Code、Codex、Cursor 等 AI 工具，讓開發者快速掌握陌生專案架構，適合大型 monorepo 新成員上手。
+📝 將任意程式碼庫轉成可探索的互動知識圖，深度整合 Claude Code、Codex、Cursor 等 AI 開發工具，讓工程師一鍵掌握模組依賴關係。
 
-2. anthropics/knowledge-work-plugins
-⭐ N/A | 🔥 今日 +1,441 | 💻 Python
-🔗 https://github.com/anthropics/knowledge-work-plugins
-📝 Anthropic 官方開源的知識工作者 Python plugin 集合，整合文件管理與搜尋工具進 Claude 工作流程，適合法律、顧問公司讓 AI agent 自動彙整合約摘要。
+2. affaan-m/ECC
+⭐ 194,973 | 🔥 今日 +1,915 | 💻 JavaScript
+🔗 https://github.com/affaan-m/ECC
+📝 以 JavaScript 打造的 agent 上下文壓縮框架，解決 LLM 長對話中 token 爆炸與記憶遺失問題，適用於 Claude Code、Codex、Cursor 等平台。
 
 3. rohitg00/ai-engineering-from-scratch
-⭐ N/A | 🔥 今日 +3,154 | 💻 Python
+⭐ 21,234 | 🔥 今日 +2,155 | 💻 Python
 🔗 https://github.com/rohitg00/ai-engineering-from-scratch
-📝 從零學 AI 工程的 Python 課程倉庫，涵蓋 LLM、RAG、agent、embedding、fine-tuning，適合後端工程師轉型，最終可獨立上線企業級 AI 客服系統。
+📝 以 Python 為主的 AI 工程實戰課程，從 LLM 呼叫、RAG 架構到 agent 部署一條龍，讓後端工程師零門檻接入 OpenAI 或 Claude API。
 
-4. affaan-m/ECC
-⭐ N/A | 🔥 今日 +2,025 | 💻 JavaScript
-🔗 https://github.com/affaan-m/ECC
-📝 JavaScript 開發的 agent 效能最佳化框架，為 Claude Code、Codex、Cursor 提供技能、記憶與安全機制，讓 AI agent 在複雜 CI/CD 流程中穩定執行自動化任務。
+4. anthropics/knowledge-work-plugins
+⭐ 16,857 | 🔥 今日 +1,718 | 💻 Python
+🔗 https://github.com/anthropics/knowledge-work-plugins
+📝 Anthropic 官方開源的 Claude 知識工作插件集（Python），標準化 API 介面讓企業快速打造文件摘要、合約分析等客製插件。
 
 5. mukul975/Anthropic-Cybersecurity-Skills
-⭐ N/A | 🔥 今日 +1,004 | 💻 Python
+⭐ 10,343 | 🔥 今日 +880 | 💻 Python
 🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
-📝 754 個結構化資安技能的 Python 倉庫，對應 MITRE ATT&CK 等五大框架，支援 Claude Code、Copilot 等 20+ 平台，讓 AI agent 自動執行威脅偵測與事件回應。
+📝 754 項結構化資安技能對應 MITRE ATT&CK 等五大框架，可注入 Claude Code、Copilot 等 20+ 平台的 AI agent，自動化 CI/CD 資安檢查。
 
-6. colbymchenry/codegraph
-⭐ N/A | 🔥 今日 +3,161 | 💻 TypeScript
-🔗 https://github.com/colbymchenry/codegraph
-📝 TypeScript 預索引程式碼知識圖譜，讓 Claude Code、Codex、Cursor 用更少 token 理解整個程式碼庫，100% 本地運行，金融機構可安全使用於大規模程式碼重構。
+6. hardikpandya/stop-slop
+⭐ 5,196 | 🔥 今日 +539 | 💻 N/A
+🔗 https://github.com/hardikpandya/stop-slop
+📝 一個消除 AI 生成文字「AI 味」的 skill file，透過 prompt 規則讓 LLM 輸出更自然的散文，一鍵去除過度正式語氣。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-26.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-27.md
