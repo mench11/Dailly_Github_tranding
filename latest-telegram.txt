@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-05-28
+📊 GitHub 每日趨勢 Daily Trending — 2026-05-29
 
 1. harry0703/MoneyPrinterTurbo
-⭐ 63,746 | 🔥 今日 +1742 | 💻 Python
+⭐ 67520 | 🔥 今日 +4698 | 💻 Python
 🔗 https://github.com/harry0703/MoneyPrinterTurbo
-📝 MoneyPrinterTurbo 是一個以 Python 撰寫的開源工具，透過 LLM 與 AI 大模型，可一鍵自動生成高清短影片，包含語音合成、字幕疊加與場景配圖。它特別適合自媒體創作者、行銷團隊快速製作 TikTok、YouTube Shorts 等平台的短視頻內容。例如，電商賣家可直接輸入產品文案，讓工具自動產生完整的宣傳影片，大幅節省後製時間。
+📝 Python 打造的 AI 短影片自動生成工具，整合 LLM 與語音合成，一鍵產出帶字幕高清短片；自媒體創作者可用來批次製作 TikTok / YouTube Shorts，大幅降低製作成本。
 
-2. Lum1104/Understand-Anything
-⭐ 41,090 | 🔥 今日 +4465 | 💻 TypeScript
-🔗 https://github.com/Lum1104/Understand-Anything
-📝 Understand-Anything 是一個以 TypeScript 打造的互動式程式碼知識圖譜工具，能把任意程式碼庫轉換成可搜尋、可瀏覽並能直接提問的知識圖。它相容 Claude Code、Cursor、Copilot、Codex、Gemini CLI 等主流 AI 開發工具，讓開發者用視覺化方式理解龐大專案的架構與依賴關係。適合加入新專案的工程師，可以快速透過 RAG 式的圖譜問答，在不讀完…
-
-3. hardikpandya/stop-slop
-⭐ 5,940 | 🔥 今日 +664 | 💻 N/A
-🔗 https://github.com/hardikpandya/stop-slop
-📝 stop-slop 是一個 AI 寫作風格修正的 skill 檔案，專門用來移除 AI 生成文字中的「AI 味」，讓輸出更貼近自然人類寫作風格。它可整合進 Claude Code 或其他 AI 寫作流程，作為 prompt 層的後處理過濾器使用。例如部落格作者利用此工具潤稿後，文章不再出現過度整齊的列舉或老套的 transition phrases，讀起來更像真人撰寫的內容。
-
-4. affaan-m/ECC
-⭐ 196,411 | 🔥 今日 +2062 | 💻 JavaScript
+2. affaan-m/ECC
+⭐ 197735 | 🔥 今日 +1385 | 💻 JavaScript
 🔗 https://github.com/affaan-m/ECC
-📝 ECC 是一個以 JavaScript 實作的 agent 效能優化系統，針對 Claude Code、Cursor、Codex、Opencode 等 AI 程式助理，提供 skills、記憶、安全性管理與研究優先的開發框架。它的設計理念是讓 AI agent 具備更強的「本能」與上下文記憶，減少重複提示、提升多輪對話中的執行一致性。適合需要長時間、多步驟自動化開發任務的工程師，例如讓 agent…
+📝 JavaScript 開發的 AI agent 效能優化框架，提供技能、記憶與安全機制，支援 Claude Code、Codex、Cursor；可讓 agent 在大型程式庫中記住專案慣例並避免反模式。
 
-5. anthropics/knowledge-work-plugins
-⭐ 17,468 | 🔥 今日 +695 | 💻 Python
-🔗 https://github.com/anthropics/knowledge-work-plugins
-📝 knowledge-work-plugins 是 Anthropic 官方發布的開源 Python 外掛程式庫，主要供知識工作者在 Claude 平台（Claude Cowork）中使用，擴充文件整理、資訊萃取等工作流程。這些 plugin 可以串接各類企業工具，讓 Claude 更有效地處理研究報告、會議紀錄、技術文件等知識密集型任務。例如法律研究人員可透過專屬 plugin，讓 Claude …
-
-6. Leonxlnx/taste-skill
-⭐ 24,938 | 🔥 今日 +2715 | 💻 Shell
+3. Leonxlnx/taste-skill
+⭐ 27052 | 🔥 今日 +2234 | 💻 Shell
 🔗 https://github.com/Leonxlnx/taste-skill
-📝 taste-skill 是一個以 Shell 腳本封裝的 AI 風格指引工具，讓 AI 生成的程式碼與文字具備「品味」，避免產出過於通用、乏味的 slop 內容。它作為 prompt 層的 skill 整合進各類 AI 助理，強制模型在回應時遵循更有個性與判斷力的風格規範。適合需要高品質一致輸出的開發團隊，例如在 API 文件自動生成流程中，確保每份說明都簡潔有力，符合品牌語氣而非千篇一律的 AI…
+📝 Shell 技能套件，專門防止 LLM 產出千篇一律的 generic slop；整合進 AI 工具後，撰寫技術文章時可自動輸出更具個人風格的內容。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-28.md
+4. hardikpandya/stop-slop
+⭐ 6595 | 🔥 今日 +761 | 💻 N/A
+🔗 https://github.com/hardikpandya/stop-slop
+📝 無語言相依的 prompt 規則技能檔，協助 AI 去除文章的「AI 味」；可嵌入 Claude 系統提示，用於潤色白皮書或行銷文案。
+
+5. twentyhq/twenty
+⭐ 48029 | 🔥 今日 +493 | 💻 TypeScript
+🔗 https://github.com/twentyhq/twenty
+📝 TypeScript 全端開源 CRM，定位為 Salesforce 的 AI 原生替代方案；支援 self-hosted 部署，透過 REST / GraphQL API 與內部工具深度整合。
+
+6. DigitalPlatDev/FreeDomain
+⭐ 171055 | 🔥 今日 +1761 | 💻 HTML
+🔗 https://github.com/DigitalPlatDev/FreeDomain
+📝 免費網域申請平台，HTML 靜態介面即可取得自訂網域；搭配 Cloudflare Pages 或 GitHub Pages，數分鐘內完成個人作品集網站上線。
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-29.md
