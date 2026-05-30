@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-05-29
+📊 GitHub 每日趨勢 Daily Trending — 2026-05-30
 
 1. harry0703/MoneyPrinterTurbo
-⭐ 67520 | 🔥 今日 +4698 | 💻 Python
+⭐ 70461 | 🔥 今日 +3567 | 💻 Python
 🔗 https://github.com/harry0703/MoneyPrinterTurbo
-📝 Python 打造的 AI 短影片自動生成工具，整合 LLM 與語音合成，一鍵產出帶字幕高清短片；自媒體創作者可用來批次製作 TikTok / YouTube Shorts，大幅降低製作成本。
+📝 Python 開發的一鍵短影片工具，整合 LLM 自動生成腳本、配音與字幕，適合內容創作者快速製作 TikTok / Reels 素材。
 
-2. affaan-m/ECC
-⭐ 197735 | 🔥 今日 +1385 | 💻 JavaScript
-🔗 https://github.com/affaan-m/ECC
-📝 JavaScript 開發的 AI agent 效能優化框架，提供技能、記憶與安全機制，支援 Claude Code、Codex、Cursor；可讓 agent 在大型程式庫中記住專案慣例並避免反模式。
+2. microsoft/markitdown
+⭐ 130487 | 🔥 今日 +1873 | 💻 Python
+🔗 https://github.com/microsoft/markitdown
+📝 Microsoft 出品的 Python 函式庫，將 PDF、Word、Excel 等文件轉為 Markdown，方便後續做 RAG 或 fine-tuning 資料準備。
 
-3. Leonxlnx/taste-skill
-⭐ 27052 | 🔥 今日 +2234 | 💻 Shell
-🔗 https://github.com/Leonxlnx/taste-skill
-📝 Shell 技能套件，專門防止 LLM 產出千篇一律的 generic slop；整合進 AI 工具後，撰寫技術文章時可自動輸出更具個人風格的內容。
+3. EveryInc/compound-engineering-plugin
+⭐ 18230 | 🔥 今日 +353 | 💻 TypeScript
+🔗 https://github.com/EveryInc/compound-engineering-plugin
+📝 TypeScript 外掛，為 Claude Code、Cursor、Codex 等 AI 編程工具加入「複合工程」能力，讓 agent 跨檔案協調多步驟重構任務。
 
-4. hardikpandya/stop-slop
-⭐ 6595 | 🔥 今日 +761 | 💻 N/A
-🔗 https://github.com/hardikpandya/stop-slop
-📝 無語言相依的 prompt 規則技能檔，協助 AI 去除文章的「AI 味」；可嵌入 Claude 系統提示，用於潤色白皮書或行銷文案。
-
-5. twentyhq/twenty
-⭐ 48029 | 🔥 今日 +493 | 💻 TypeScript
+4. twentyhq/twenty
+⭐ 48515 | 🔥 今日 +578 | 💻 TypeScript
 🔗 https://github.com/twentyhq/twenty
-📝 TypeScript 全端開源 CRM，定位為 Salesforce 的 AI 原生替代方案；支援 self-hosted 部署，透過 REST / GraphQL API 與內部工具深度整合。
+📝 TypeScript 開源 CRM，Salesforce 的平民替代方案，內建 GraphQL/REST API，適合新創自行部署並串接 LLM agent 做智慧客戶管理。
 
-6. DigitalPlatDev/FreeDomain
-⭐ 171055 | 🔥 今日 +1761 | 💻 HTML
-🔗 https://github.com/DigitalPlatDev/FreeDomain
-📝 免費網域申請平台，HTML 靜態介面即可取得自訂網域；搭配 Cloudflare Pages 或 GitHub Pages，數分鐘內完成個人作品集網站上線。
+5. anthropics/claude-code
+⭐ 128018 | 🔥 今日 +395 | 💻 Python
+🔗 https://github.com/anthropics/claude-code
+📝 Anthropic 官方 CLI 工具，讓開發者在終端機透過自然語言呼叫 Claude 執行重構、程式審查、git 操作，比 IDE 外掛更靈活。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-29.md
+6. Leonxlnx/taste-skill
+⭐ 28462 | 🔥 今日 +2062 | 💻 Shell
+🔗 https://github.com/Leonxlnx/taste-skill
+📝 Shell 工具，透過 prompt 規範讓 LLM 停止輸出泛用回應，適合需要 AI 保持品牌語調一致性的行銷與設計師。
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-30.md
