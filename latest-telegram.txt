@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-05-30
+📊 GitHub 每日趨勢 Daily Trending — 2026-05-31
 
-1. harry0703/MoneyPrinterTurbo
-⭐ 70461 | 🔥 今日 +3567 | 💻 Python
-🔗 https://github.com/harry0703/MoneyPrinterTurbo
-📝 Python 開發的一鍵短影片工具，整合 LLM 自動生成腳本、配音與字幕，適合內容創作者快速製作 TikTok / Reels 素材。
-
-2. microsoft/markitdown
-⭐ 130487 | 🔥 今日 +1873 | 💻 Python
+1. microsoft/markitdown
+⭐ 133,071 | 🔥 今日 +2470 | 💻 Python
 🔗 https://github.com/microsoft/markitdown
-📝 Microsoft 出品的 Python 函式庫，將 PDF、Word、Excel 等文件轉為 Markdown，方便後續做 RAG 或 fine-tuning 資料準備。
+📝 微軟開源的 Python 工具，可將 PDF、Word、Excel 等辦公文件一鍵轉為 Markdown，方便餵入 LLM 做 RAG 處理；企業可用來批次轉換內部文件並建立向量索引。
 
-3. EveryInc/compound-engineering-plugin
-⭐ 18230 | 🔥 今日 +353 | 💻 TypeScript
-🔗 https://github.com/EveryInc/compound-engineering-plugin
-📝 TypeScript 外掛，為 Claude Code、Cursor、Codex 等 AI 編程工具加入「複合工程」能力，讓 agent 跨檔案協調多步驟重構任務。
+2. harry0703/MoneyPrinterTurbo
+⭐ 72,486 | 🔥 今日 +2768 | 💻 Python
+🔗 https://github.com/harry0703/MoneyPrinterTurbo
+📝 結合 LLM 的 Python 自動化短影片生成工具，輸入關鍵字即可一鍵產出帶字幕與配音的高清短片；自媒體帳號可用它每日自動生成財經短片並上傳 TikTok。
 
-4. twentyhq/twenty
-⭐ 48515 | 🔥 今日 +578 | 💻 TypeScript
-🔗 https://github.com/twentyhq/twenty
-📝 TypeScript 開源 CRM，Salesforce 的平民替代方案，內建 GraphQL/REST API，適合新創自行部署並串接 LLM agent 做智慧客戶管理。
-
-5. anthropics/claude-code
-⭐ 128018 | 🔥 今日 +395 | 💻 Python
+3. anthropics/claude-code
+⭐ 128,512 | 🔥 今日 +592 | 💻 Python
 🔗 https://github.com/anthropics/claude-code
-📝 Anthropic 官方 CLI 工具，讓開發者在終端機透過自然語言呼叫 Claude 執行重構、程式審查、git 操作，比 IDE 外掛更靈活。
+📝 Anthropic 官方的 CLI 編程助理，在終端機中以 agent 模式運行，能透過自然語言完成重構、除錯與 git 操作；一句話即可讓它幫所有 REST API 端點加上 JWT 驗證。
 
-6. Leonxlnx/taste-skill
-⭐ 28462 | 🔥 今日 +2062 | 💻 Shell
-🔗 https://github.com/Leonxlnx/taste-skill
-📝 Shell 工具，透過 prompt 規範讓 LLM 停止輸出泛用回應，適合需要 AI 保持品牌語調一致性的行銷與設計師。
+4. cursor/plugins
+⭐ 1,510 | 🔥 今日 +205 | 💻 TypeScript
+🔗 https://github.com/cursor/plugins
+📝 Cursor IDE 官方的 TypeScript 外掛規範與範例套件，定義第三方工具如何接入 Cursor 的 AI 工作流；企業可開發自訂外掛讓 Cursor 自動套用內部程式碼規範。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-30.md
+5. revfactory/harness
+⭐ 4,348 | 🔥 今日 +55 | 💻 HTML
+🔗 https://github.com/revfactory/harness
+📝 meta-skill 框架，能依任務領域自動設計 agent 團隊架構並生成 skill 定義檔；構建 AI 程式碼審查系統時可自動拆分安全掃描、效能分析等 agent。
+
+6. EveryInc/compound-engineering-plugin
+⭐ 18,470 | 🔥 今日 +349 | 💻 TypeScript
+🔗 https://github.com/EveryInc/compound-engineering-plugin
+📝 Every Inc. 開發的通用工程外掛，同時支援 Claude Code、Codex、Cursor 等環境；讓不同 AI IDE 的工程師享有一致的程式碼審查與重構輔助功能。
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-31.md
