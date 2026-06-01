@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-05-31
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-01
 
-1. microsoft/markitdown
-⭐ 133,071 | 🔥 今日 +2470 | 💻 Python
-🔗 https://github.com/microsoft/markitdown
-📝 微軟開源的 Python 工具，可將 PDF、Word、Excel 等辦公文件一鍵轉為 Markdown，方便餵入 LLM 做 RAG 處理；企業可用來批次轉換內部文件並建立向量索引。
-
-2. harry0703/MoneyPrinterTurbo
-⭐ 72,486 | 🔥 今日 +2768 | 💻 Python
+1. harry0703/MoneyPrinterTurbo
+⭐ 75472 | 🔥 今日 +1937 | 💻 Python
 🔗 https://github.com/harry0703/MoneyPrinterTurbo
-📝 結合 LLM 的 Python 自動化短影片生成工具，輸入關鍵字即可一鍵產出帶字幕與配音的高清短片；自媒體帳號可用它每日自動生成財經短片並上傳 TikTok。
+📝 MoneyPrinterTurbo 是一個以 Python 開發的 AI 短影片自動生成工具，只需輸入主題，系統便能透過 LLM 自動撰寫腳本、搭配語音合成與字幕，一鍵輸出高清短片。其核心優勢在於整合多種 API（如 OpenAI、Azure TTS），大幅降低影片製作的門檻，特別適合自媒體創作者或行銷團隊批次產製社群平台素材。例如電商品牌可以每天自動生成產品介紹短片，直接發布至 TikTok 或…
 
-3. anthropics/claude-code
-⭐ 128,512 | 🔥 今日 +592 | 💻 Python
-🔗 https://github.com/anthropics/claude-code
-📝 Anthropic 官方的 CLI 編程助理，在終端機中以 agent 模式運行，能透過自然語言完成重構、除錯與 git 操作；一句話即可讓它幫所有 REST API 端點加上 JWT 驗證。
+2. microsoft/markitdown
+⭐ 135917 | 🔥 今日 +2798 | 💻 Python
+🔗 https://github.com/microsoft/markitdown
+📝 markitdown 是 Microsoft 推出的 Python 函式庫，能將 Word、Excel、PowerPoint、PDF 等各類辦公室檔案一鍵轉換為 Markdown 格式，方便後續進行 LLM 處理或文件管理。相比手動複製貼上，它能保留標題層級、表格結構與程式碼區塊，讓 RAG pipeline 攝取企業內部文件時不再失真。實際應用上，企業知識庫可利用此工具自動批次轉換舊有 Word…
 
-4. cursor/plugins
-⭐ 1,510 | 🔥 今日 +205 | 💻 TypeScript
-🔗 https://github.com/cursor/plugins
-📝 Cursor IDE 官方的 TypeScript 外掛規範與範例套件，定義第三方工具如何接入 Cursor 的 AI 工作流；企業可開發自訂外掛讓 Cursor 自動套用內部程式碼規範。
+3. D4Vinci/Scrapling
+⭐ 57119 | 🔥 今日 +606 | 💻 Python
+🔗 https://github.com/D4Vinci/Scrapling
+📝 Scrapling 是一個以 Python 撰寫的自適應網頁爬取框架，能從單次 HTTP 請求擴展到大規模分散式爬蟲，並內建智慧反反爬機制以應對動態頁面。其最大特色是選擇器會自動學習並適應頁面版型變動，即使目標網站改版也不需要人工更新 CSS selector，大幅降低維護成本。適合需要長期監控電商價格、財經數據或新聞資訊的資料工程師，不必每次改版就重寫整個爬蟲邏輯。
 
-5. revfactory/harness
-⭐ 4,348 | 🔥 今日 +55 | 💻 HTML
-🔗 https://github.com/revfactory/harness
-📝 meta-skill 框架，能依任務領域自動設計 agent 團隊架構並生成 skill 定義檔；構建 AI 程式碼審查系統時可自動拆分安全掃描、效能分析等 agent。
+4. nesquena/hermes-webui
+⭐ 10261 | 🔥 今日 +357 | 💻 Python
+🔗 https://github.com/nesquena/hermes-webui
+📝 hermes-webui 是一套以 Python 建構的開源 Web UI，讓使用者可直接透過瀏覽器或手機與 Hermes agent 互動，無需安裝複雜的本地端環境。它提供直覺的聊天介面並支援工具呼叫與多輪對話，讓非工程師也能充分發揮 LLM agent 的能力。例如小型團隊可將其部署至雲端伺服器，讓業務同仁直接用手機查詢 RAG 知識庫或自動執行重複性任務。
 
-6. EveryInc/compound-engineering-plugin
-⭐ 18,470 | 🔥 今日 +349 | 💻 TypeScript
+5. EveryInc/compound-engineering-plugin
+⭐ 18839 | 🔥 今日 +251 | 💻 TypeScript
 🔗 https://github.com/EveryInc/compound-engineering-plugin
-📝 Every Inc. 開發的通用工程外掛，同時支援 Claude Code、Codex、Cursor 等環境；讓不同 AI IDE 的工程師享有一致的程式碼審查與重構輔助功能。
+📝 compound-engineering-plugin 是 EveryInc 推出的官方 TypeScript 外掛，支援 Claude Code、OpenAI Codex 與 Cursor 等主流 AI 程式設計工具，讓它們能與 Compound Engineering 平台無縫協作。透過此 MCP 相容外掛，開發者可以在 IDE 內直接存取 Compound 的工程自動化功能，不需切換工具或手…
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-05-31.md
+6. github/docs
+⭐ 19801 | 🔥 今日 +27 | 💻 TypeScript
+🔗 https://github.com/github/docs
+📝 github/docs 是 GitHub 官方文件網站 docs.github.com 的完整開源版本，以 TypeScript 建置，涵蓋從 API 說明到 GitHub Actions CI/CD 教學的所有技術文件。開放原始碼讓社群可以直接送出 Pull Request 修正錯誤或補充範例，使文件品質持續提升。對開發者而言，這個倉庫也是學習如何用 TypeScript 打造大規模多語系文件網…
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-01.md
