@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-02
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-03
 
-1. microsoft/markitdown
-⭐ 139,394 | 🔥 今日 +3,034 | 💻 Python
+1. chopratejas/headroom
+⭐ 7,420 | 🔥 今日 +1,265 | 💻 Python
+🔗 https://github.com/chopratejas/headroom
+📝 headroom 是一個用 Python 開發的 token 壓縮工具，能夠在 LLM 接收到工具輸出、日誌、檔案內容或 RAG 片段之前，自動將其壓縮 60–95%，同時維持回答品質不變。它支援 Library、proxy 與 MC...
+
+2. microsoft/markitdown
+⭐ 141,760 | 🔥 今日 +3,618 | 💻 Python
 🔗 https://github.com/microsoft/markitdown
-📝 Microsoft 出品的 Python 函式庫，可將 PDF、Word、Excel、HTML 等檔案一鍵轉成 Markdown，方便餵入 LLM 做 RAG；企業知識庫可批次轉換合約文件再接 LangChain 建問答機器人。
+📝 markitdown 是由 Microsoft 開源的 Python 工具，專門將 Word、Excel、PowerPoint、PDF、HTML 等各類辦公室文件轉換為乾淨的 Markdown 格式。轉出的 Markdown 可直接餵...
 
-2. nesquena/hermes-webui
-⭐ 11,737 | 🔥 今日 +945 | 💻 Python
-🔗 https://github.com/nesquena/hermes-webui
-📝 以 Python 為後端的 Web GUI，讓使用者在瀏覽器或手機上直接操作 Hermes agent，免本地安裝；小型團隊可部署於內網，成員用手機就能呼叫 agent 整理會議記錄。
+3. affaan-m/ECC
+⭐ 204,501 | 🔥 今日 +1,533 | 💻 JavaScript
+🔗 https://github.com/affaan-m/ECC
+📝 ECC 是一套用 JavaScript 打造的 agent 效能最佳化框架，為 Claude Code、Codex、Cursor、Opencode 等 AI 程式開發工具提供技能、本能記憶、安全防護與研究優先的開發模式。它把多種 ag...
 
-3. supermemoryai/supermemory
-⭐ 24,179 | 🔥 今日 +647 | 💻 TypeScript
-🔗 https://github.com/supermemoryai/supermemory
-📝 TypeScript 打造的高效能 Memory API，讓 LLM 應用快速儲存與檢索 embedding 記憶，賦予 chatbot 跨對話長期記憶；客服 AI 可記住每位用戶歷史偏好，提升個人化回覆品質。
-
-4. harry0703/MoneyPrinterTurbo
-⭐ 77,274 | 🔥 今日 +3,375 | 💻 Python
-🔗 https://github.com/harry0703/MoneyPrinterTurbo
-📝 Python AI 短影片自動生成工具，整合 LLM 腳本、TTS 語音與字幕，一鍵產出高清直式短影片；輸入主題即完成全流程，適合批次生成 TikTok/Reels/Shorts 的創作者與行銷團隊。
-
-5. D4Vinci/Scrapling
-⭐ 58,413 | 🔥 今日 +1,486 | 💻 Python
+4. D4Vinci/Scrapling
+⭐ 59,468 | 🔥 今日 +1,182 | 💻 Python
 🔗 https://github.com/D4Vinci/Scrapling
-📝 Python 自適應 Web Scraping 框架，能智慧應對 DOM 變動與反爬機制，無需手動維護選擇器；電商資料平台可用它自動蒐集各購物網站即時商品價格與庫存。
+📝 Scrapling 是一個以 Python 建構的自適應網頁爬蟲框架，從單一 HTTP 請求到大規模全站爬取都能勝任，並能自動應對網站結構變動。它內建智慧元素定位機制，即使目標網站改版後仍可繼續正確擷取資料，大幅降低維護爬蟲的人工成本...
 
-6. pbakaus/impeccable
-⭐ 33,034 | 🔥 今日 +485 | 💻 JavaScript
-🔗 https://github.com/pbakaus/impeccable
-📝 JavaScript 設計語言規範，提供結構化設計原則讓 AI 生成工具（Claude、GPT-4o）輸出更專業美觀的 UI；產品團隊在 prompt 中引用後，AI 生成落地頁可直接達到設計師水準。
+5. nesquena/hermes-webui
+⭐ 12,743 | 🔥 今日 +1,722 | 💻 Python
+🔗 https://github.com/nesquena/hermes-webui
+📝 hermes-webui 是以 Python 開發的 Web 介面，讓使用者能透過瀏覽器或手機直接操作本地部署的 Hermes Agent，無需使用命令列。它提供直覺的 GUI，將 agent 的任務下達、對話記錄與工具呼叫結果視覺化...
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-02.md
+6. reconurge/flowsint
+⭐ 4,660 | 🔥 今日 +124 | 💻 TypeScript
+🔗 https://github.com/reconurge/flowsint
+📝 flowsint 是一個用 TypeScript 開發的現代化視覺調查平台，以互動式圖形介面呈現關聯關係，專為資安分析師與調查人員設計。平台採用 graph-based 架構，支援靈活擴充的插件系統，可將 IP 位址、網域、人物、組織...
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-03.md
