@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-05
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-06
 
-1. chopratejas/headroom
-⭐ 13,243 | 🔥 今日 +3,142 | 💻 Python
-🔗 https://github.com/chopratejas/headroom
-📝 用 Python 開發的 token 壓縮函式庫，在 LLM 接收工具輸出、RAG chunks 前智慧壓縮 60–95%，支援 Library、proxy、MCP server 三種模式。
-
-2. NousResearch/hermes-agent
-⭐ 181,481 | 🔥 今日 +1,913 | 💻 Python
+1. NousResearch/hermes-agent
+⭐ 183,699 | 🔥 今日 +1,845 | 💻 Python
 🔗 https://github.com/NousResearch/hermes-agent
-📝 NousResearch 開源的 Python AI agent 框架，整合 LLM 推理與工具呼叫，支援動態技能擴充與長期記憶體管理，適合打造自適應 AI 助理。
+📝 NousResearch 開發的 Python AI agent 框架，整合多種 LLM 後端與 RAG，適合打造能持續學習的智慧客服或自動化 agent。
 
-3. affaan-m/ECC
-⭐ 207,600 | 🔥 今日 +1,750 | 💻 JavaScript
+2. chopratejas/headroom
+⭐ 14,808 | 🔥 今日 +2,473 | 💻 Python
+🔗 https://github.com/chopratejas/headroom
+📝 Python token 壓縮工具，資料送入 LLM 前自動壓縮 60–95%，支援 Library/proxy/MCP server 三種模式，顯著降低 API 費用。
+
+3. CopilotKit/CopilotKit
+⭐ 32,825 | 🔥 今日 +366 | 💻 TypeScript
+🔗 https://github.com/CopilotKit/CopilotKit
+📝 TypeScript 前端 agent 框架，讓 React/Angular 輕鬆整合 AI agent 與 Generative UI，AG-UI Protocol 制定者，快速上線 Copilot 功能。
+
+4. lfnovo/open-notebook
+⭐ 26,185 | 🔥 今日 +1,152 | 💻 TypeScript
+🔗 https://github.com/lfnovo/open-notebook
+📝 TypeScript 開源版 Notebook LM，可自架伺服器、自選 LLM 後端，支援 RAG 問答，適合需要資料隱私的企業知識庫場景。
+
+5. affaan-m/ECC
+⭐ 208,567 | 🔥 今日 +1,361 | 💻 JavaScript
 🔗 https://github.com/affaan-m/ECC
-📝 JavaScript 開發的 agent harness 優化系統，為 Claude Code、Codex、Cursor 提供 skills、instincts、memory 模組，標準化 AI 輔助開發流程。
+📝 JavaScript AI coding agent harness 最佳化系統，透過 skills/memory/security 模組提升 Claude Code、Codex、Cursor 的執行安全性。
 
-4. PaddlePaddle/PaddleOCR
-⭐ 80,122 | 🔥 今日 +141 | 💻 Python
-🔗 https://github.com/PaddlePaddle/PaddleOCR
-📝 百度開源的輕量 OCR 工具包，支援 100+ 語言，可將 PDF 及圖片轉為結構化資料供 LLM 使用，兼顧 GPU 與 CPU 部署。
+6. Panniantong/Agent-Reach
+⭐ 21,762 | 🔥 今日 +148 | 💻 Python
+🔗 https://github.com/Panniantong/Agent-Reach
+📝 Python CLI 工具，讓 AI agent 免費讀取 Twitter/Reddit/YouTube/GitHub/小紅書等平台內容，零 API 費用的全網情報蒐集利器。
 
-5. github/spec-kit
-⭐ 108,762 | 🔥 今日 +321 | 💻 Python
-🔗 https://github.com/github/spec-kit
-📝 GitHub 官方 Python 工具包，導入 Spec-Driven Development 工作流，讓 REST/GraphQL API 設計與實作保持一致，降低多人協作溝通成本。
-
-6. NVIDIA/cosmos
-⭐ 9,147 | 🔥 今日 +133 | 💻 Jupyter Notebook
-🔗 https://github.com/NVIDIA/cosmos
-📝 NVIDIA 開放式 Physical AI 平台，提供 world model 與 Jupyter Notebook 工具，結合 diffusion + transformer 為機器人與自駕車生成訓練場景。
-
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-05.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-06.md
