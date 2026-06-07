@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-06
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-07
 
-1. NousResearch/hermes-agent
-⭐ 183,699 | 🔥 今日 +1,845 | 💻 Python
-🔗 https://github.com/NousResearch/hermes-agent
-📝 NousResearch 開發的 Python AI agent 框架，整合多種 LLM 後端與 RAG，適合打造能持續學習的智慧客服或自動化 agent。
+1. mvanhorn/last30days-skill
+⭐ 29164 | 🔥 今日 +439 | 💻 Python
+🔗 https://github.com/mvanhorn/last30days-skill
+📝 以 Python 撰寫的 AI agent skill，跨 Reddit、X、YouTube、HN、Polymarket 多源研究，自動合成 30 天輿論摘要，可作為 LangChain skill 插件接入現有 pipeline。
 
-2. chopratejas/headroom
-⭐ 14,808 | 🔥 今日 +2,473 | 💻 Python
-🔗 https://github.com/chopratejas/headroom
-📝 Python token 壓縮工具，資料送入 LLM 前自動壓縮 60–95%，支援 Library/proxy/MCP server 三種模式，顯著降低 API 費用。
-
-3. CopilotKit/CopilotKit
-⭐ 32,825 | 🔥 今日 +366 | 💻 TypeScript
+2. CopilotKit/CopilotKit
+⭐ 33383 | 🔥 今日 +631 | 💻 TypeScript
 🔗 https://github.com/CopilotKit/CopilotKit
-📝 TypeScript 前端 agent 框架，讓 React/Angular 輕鬆整合 AI agent 與 Generative UI，AG-UI Protocol 制定者，快速上線 Copilot 功能。
+📝 TypeScript 前端框架，讓 React/Angular/Slack 等介面能快速嵌入 AI agent 與 Generative UI；AG-UI Protocol 推動者，提供串流、工具呼叫與 UI 元件一站式整合。
 
-4. lfnovo/open-notebook
-⭐ 26,185 | 🔥 今日 +1,152 | 💻 TypeScript
-🔗 https://github.com/lfnovo/open-notebook
-📝 TypeScript 開源版 Notebook LM，可自架伺服器、自選 LLM 後端，支援 RAG 問答，適合需要資料隱私的企業知識庫場景。
+3. MemPalace/mempalace
+⭐ 54420 | 🔥 今日 +446 | 💻 Python
+🔗 https://github.com/MemPalace/mempalace
+📝 benchmark 表現最佳的開源 AI 記憶系統（Python），讓 LLM 與 agent 持久儲存跨對話長期記憶；支援 RAG pipeline，可替代 OpenAI Memory API，完全免費自部署。
 
-5. affaan-m/ECC
-⭐ 208,567 | 🔥 今日 +1,361 | 💻 JavaScript
-🔗 https://github.com/affaan-m/ECC
-📝 JavaScript AI coding agent harness 最佳化系統，透過 skills/memory/security 模組提升 Claude Code、Codex、Cursor 的執行安全性。
+4. danielmiessler/Personal_AI_Infrastructure
+⭐ 15063 | 🔥 今日 +70 | 💻 TypeScript
+🔗 https://github.com/danielmiessler/Personal_AI_Infrastructure
+📝 資安研究者 Daniel Miessler 以 TypeScript 打造的個人 Agentic AI 基礎設施，整合多 LLM 與 agent 工作流，讓個人也能擁有如企業級的 AI CI/CD pipeline。
+
+5. openai/plugins
+⭐ 1845 | 🔥 今日 +213 | 💻 JavaScript
+🔗 https://github.com/openai/plugins
+📝 OpenAI 官方 JavaScript 範例集，提供 ChatGPT Plugins / GPT Actions 的標準 manifest 範本與 OAuth、OpenAPI schema 整合指南，快速接入 OpenAI tool use 生態。
 
 6. Panniantong/Agent-Reach
-⭐ 21,762 | 🔥 今日 +148 | 💻 Python
+⭐ 22621 | 🔥 今日 +683 | 💻 Python
 🔗 https://github.com/Panniantong/Agent-Reach
-📝 Python CLI 工具，讓 AI agent 免費讀取 Twitter/Reddit/YouTube/GitHub/小紅書等平台內容，零 API 費用的全網情報蒐集利器。
+📝 Python CLI 工具，讓 AI agent 零 API 費用讀取 Twitter、Reddit、YouTube、GitHub、Bilibili、小紅書等平台即時資訊，適合競品監控或低預算多源資料 agent 應用。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-06.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-07.md
