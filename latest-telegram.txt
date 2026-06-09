@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-08
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-09
 
 1. mvanhorn/last30days-skill
-⭐ 32,118 | 🔥 今日 +1,111 | 💻 Python
+⭐ 35416 | 🔥 今日 +3558 | 💻 Python
 🔗 https://github.com/mvanhorn/last30days-skill
-📝 last30days-skill 是一個以 Python 撰寫的 AI agent 技能工具，能橫跨 Reddit、X、YouTube、Hacker News、Polymarket 及一般網路蒐集過去 30 天的相關資訊，再整合成有據可查的 grounded 摘要，讓使用者不必逐一瀏覽各平台。這個工具特別適合需要快速掌握市場情緒或話題趨勢的研究人員與投資者；例如，分析師可以輸入某支股票代號，讓 a…
+📝 「last30days-skill」是一個 AI agent skill，能自動爬取 Reddit、X（推特）、YouTube、Hacker News、Polymarket 及一般網頁，針對任意主題彙整近 30 天的重點摘要。
 
-2. opencv/opencv
-⭐ 88,235 | 🔥 今日 +65 | 💻 C++
-🔗 https://github.com/opencv/opencv
-📝 OpenCV 是全球最廣泛使用的開源電腦視覺函式庫，以 C++ 為核心並提供 Python、Java 等多語言介面，內含超過 2500 個針對即時影像與視訊處理最佳化的演算法。從人臉辨識、物件偵測到深度學習推論，OpenCV 幾乎涵蓋電腦視覺的所有基礎需求，且可在 CPU 與 GPU 上高效執行。工廠自動化系統可以結合 OpenCV 與工業攝影機進行即時瑕疵偵測，取代耗時的人工目視品管流程。
+2. RyanCodrai/turbovec
+⭐ 9354 | 🔥 今日 +1729 | 💻 Python
+🔗 https://github.com/RyanCodrai/turbovec
+📝 「turbovec」是以 Rust 寫成的高效能向量索引函式庫，底層採用 TurboQuant 量化技術壓縮向量，並透過 Python bindings 供 Python 生態系直接呼叫。
 
-3. Leonxlnx/taste-skill
-⭐ 37,389 | 🔥 今日 +1,103 | 💻 Shell
-🔗 https://github.com/Leonxlnx/taste-skill
-📝 taste-skill 是一套以 Shell 腳本實作的 AI 風格調校工具，透過精心設計的 prompt 範本為 LLM 注入「品味」，讓模型停止產出千篇一律、缺乏個性的制式內容，而是輸出更具創意與辨識度的文字。它無需重新訓練或 fine-tuning 模型，只需嵌入現有的生成流程即可生效，對創作者來說門檻極低。例如，品牌文案團隊可以將 taste-skill 整合進 CLI 工作流程，確保每次…
+3. google/skills
+⭐ 12651 | 🔥 今日 +461 | 💻 Python
+🔗 https://github.com/google/skills
+📝 「google/skills」是 Google 官方推出的 agent skills 集合，涵蓋 Google 產品與技術的標準化 MCP 工具介面，讓 AI agent 能直接呼叫 Google Search、Gmail、Drive 等服務。
 
-4. NousResearch/hermes-agent
-⭐ 186,432 | 🔥 今日 +1,112 | 💻 Python
-🔗 https://github.com/NousResearch/hermes-agent
-📝 hermes-agent 是 NousResearch 推出的開源 AI agent 框架，以 Python 撰寫，強調能隨使用者需求持續演化，整合多步驟推理、記憶管理與工具呼叫（tool use）能力，適合打造長期任務執行型或陪伴型的智慧助理。與單次對話型 LLM 不同，hermes-agent 能在跨會話中保留上下文並累積知識，讓 agent 的表現隨時間提升。例如，軟體開發團隊可以部署它作為…
+4. refactoringhq/tolaria
+⭐ 13822 | 🔥 今日 +651 | 💻 TypeScript
+🔗 https://github.com/refactoringhq/tolaria
+📝 「tolaria」是以 TypeScript 開發的桌面應用程式（Desktop app），專為管理以 Markdown 格式儲存的個人或團隊知識庫而設計，介面簡潔且支援本機儲存。
 
-5. lfnovo/open-notebook
-⭐ 27,566 | 🔥 今日 +554 | 💻 TypeScript
-🔗 https://github.com/lfnovo/open-notebook
-📝 open-notebook 是以 TypeScript 開發的開源 Notebook LM 替代方案，提供比 Google 原版更高的客製化彈性，支援自行部署、多文件匯入、語義搜尋及 AI 摘要生成，以 RAG 架構為核心驅動知識庫的智慧問答功能。對於需要資料隱私保護的企業或研究機構而言，這是一個可在私有伺服器上運行的理想選擇。例如，法律事務所可以用 open-notebook 建立私有合約知識庫…
+5. Panniantong/Agent-Reach
+⭐ 24697 | 🔥 今日 +679 | 💻 Python
+🔗 https://github.com/Panniantong/Agent-Reach
+📝 「Agent-Reach」是一款 Python CLI 工具，讓 AI agent 能直接讀取與搜尋 Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu 等平台的公開內容，完全不需要 API 金鑰或付費訂閱。
 
-6. yikart/AiToEarn
-⭐ 19,051 | 🔥 今日 +183 | 💻 TypeScript
-🔗 https://github.com/yikart/AiToEarn
-📝 AiToEarn 是一個以 TypeScript 開發的開源平台，整合多種 AI 工具與 API，協助個人創業者與自由接案者利用 AI 技術建立多元收入來源，涵蓋自動化內容創作、行銷素材生成及 SEO 文章撰寫等應用情境。平台設計注重低門檻入門，即便缺乏深度技術背景的使用者也能快速上手並投入實際商業應用。例如，社群媒體經營者可以透過 AiToEarn 自動批量生成多平台貼文，再搭配排程工具發布，有…
+6. danielmiessler/Personal_AI_Infrastructure
+⭐ 15565 | 🔥 今日 +62 | 💻 TypeScript
+🔗 https://github.com/danielmiessler/Personal_AI_Infrastructure
+📝 「Personal_AI_Infrastructure」是由資安研究者 Daniel Miessler 開源的 TypeScript 個人 AI 基礎架構專案，旨在整合多個 LLM、工具與 agent，打造以人類能力放大為核心的私人 AI 系統。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-08.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-09.md
