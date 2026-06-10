@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-09
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-10
 
 1. mvanhorn/last30days-skill
-⭐ 35416 | 🔥 今日 +3558 | 💻 Python
+⭐ 38067 | 🔥 今日 +3191 | 💻 Python
 🔗 https://github.com/mvanhorn/last30days-skill
-📝 「last30days-skill」是一個 AI agent skill，能自動爬取 Reddit、X（推特）、YouTube、Hacker News、Polymarket 及一般網頁，針對任意主題彙整近 30 天的重點摘要。
+📝 給 AI agent 用的 skill，可跨 Reddit、X、YouTube、HN、Polymarket 等平台搜尋主題並整合成有根據的摘要。適合分析師快速彙整某話題近期的社群討論趨勢。
 
 2. RyanCodrai/turbovec
-⭐ 9354 | 🔥 今日 +1729 | 💻 Python
+⭐ 10444 | 🔥 今日 +1801 | 💻 Python
 🔗 https://github.com/RyanCodrai/turbovec
-📝 「turbovec」是以 Rust 寫成的高效能向量索引函式庫，底層採用 TurboQuant 量化技術壓縮向量，並透過 Python bindings 供 Python 生態系直接呼叫。
+📝 基於 TurboQuant 的向量索引（vector index），核心用 Rust 寫並提供 Python bindings。適合建構大規模 embedding 搜尋，支援 RAG 應用。
 
-3. google/skills
-⭐ 12651 | 🔥 今日 +461 | 💻 Python
-🔗 https://github.com/google/skills
-📝 「google/skills」是 Google 官方推出的 agent skills 集合，涵蓋 Google 產品與技術的標準化 MCP 工具介面，讓 AI agent 能直接呼叫 Google Search、Gmail、Drive 等服務。
+3. roboflow/supervision
+⭐ 43215 | 🔥 今日 +733 | 💻 Python
+🔗 https://github.com/roboflow/supervision
+📝 Roboflow 推出的電腦視覺工具集，提供可重複使用的標註、追蹤元件。可把偵測模型輸出疊加到影片並做物件追蹤統計。
 
-4. refactoringhq/tolaria
-⭐ 13822 | 🔥 今日 +651 | 💻 TypeScript
+4. opencv/opencv
+⭐ 88761 | 🔥 今日 +102 | 💻 C++
+🔗 https://github.com/opencv/opencv
+📝 業界最廣泛使用的開源電腦視覺函式庫，涵蓋影像處理、特徵偵測、機器學習。常用於工廠產線即時瑕疵檢測。
+
+5. refactoringhq/tolaria
+⭐ 14516 | 🔥 今日 +829 | 💻 TypeScript
 🔗 https://github.com/refactoringhq/tolaria
-📝 「tolaria」是以 TypeScript 開發的桌面應用程式（Desktop app），專為管理以 Markdown 格式儲存的個人或團隊知識庫而設計，介面簡潔且支援本機儲存。
+📝 用 TypeScript 開發的桌面應用，管理 markdown 知識庫檔案。適合研究人員集中管理筆記並快速搜尋連結資料。
 
-5. Panniantong/Agent-Reach
-⭐ 24697 | 🔥 今日 +679 | 💻 Python
-🔗 https://github.com/Panniantong/Agent-Reach
-📝 「Agent-Reach」是一款 Python CLI 工具，讓 AI agent 能直接讀取與搜尋 Twitter、Reddit、YouTube、GitHub、Bilibili、XiaoHongShu 等平台的公開內容，完全不需要 API 金鑰或付費訂閱。
+6. aaif-goose/goose
+⭐ 48596 | 🔥 今日 +489 | 💻 Rust
+🔗 https://github.com/aaif-goose/goose
+📝 用 Rust 打造的開源、可擴充 AI agent，能安裝套件、執行指令、編輯檔案並測試，可搭配任意 LLM。適合自動化開發流程。
 
-6. danielmiessler/Personal_AI_Infrastructure
-⭐ 15565 | 🔥 今日 +62 | 💻 TypeScript
-🔗 https://github.com/danielmiessler/Personal_AI_Infrastructure
-📝 「Personal_AI_Infrastructure」是由資安研究者 Daniel Miessler 開源的 TypeScript 個人 AI 基礎架構專案，旨在整合多個 LLM、工具與 agent，打造以人類能力放大為核心的私人 AI 系統。
-
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-09.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-10.md
