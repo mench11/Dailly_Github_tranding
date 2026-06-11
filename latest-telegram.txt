@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-10
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-11
 
-1. mvanhorn/last30days-skill
-⭐ 38067 | 🔥 今日 +3191 | 💻 Python
-🔗 https://github.com/mvanhorn/last30days-skill
-📝 給 AI agent 用的 skill，可跨 Reddit、X、YouTube、HN、Polymarket 等平台搜尋主題並整合成有根據的摘要。適合分析師快速彙整某話題近期的社群討論趨勢。
+1. addyosmani/agent-skills
+⭐ 52717 | 🔥 今日 +821 | 💻 Shell
+🔗 https://github.com/addyosmani/agent-skills
+📝 由 Addy Osmani 推出，收錄一系列給 Claude Code 等 AI coding agent 使用的 production-grade 工程技能設定檔，可放進 .claude 目錄讓 agent 在 PR 中遵循一致的程式碼品質標準。
 
-2. RyanCodrai/turbovec
-⭐ 10444 | 🔥 今日 +1801 | 💻 Python
-🔗 https://github.com/RyanCodrai/turbovec
-📝 基於 TurboQuant 的向量索引（vector index），核心用 Rust 寫並提供 Python bindings。適合建構大規模 embedding 搜尋，支援 RAG 應用。
+2. phuryn/pm-skills
+⭐ 15487 | 🔥 今日 +804 | 💻 (未標示)
+🔗 https://github.com/phuryn/pm-skills
+📝 給產品經理的 agentic skills 市集，含 100+ 個涵蓋探索到成長階段的 skills、commands 與 plugins，可讓 AI agent 協助寫 PRD、規劃 roadmap，例如自動產生功能上線檢查清單。
 
-3. roboflow/supervision
-⭐ 43215 | 🔥 今日 +733 | 💻 Python
-🔗 https://github.com/roboflow/supervision
-📝 Roboflow 推出的電腦視覺工具集，提供可重複使用的標註、追蹤元件。可把偵測模型輸出疊加到影片並做物件追蹤統計。
-
-4. opencv/opencv
-⭐ 88761 | 🔥 今日 +102 | 💻 C++
-🔗 https://github.com/opencv/opencv
-📝 業界最廣泛使用的開源電腦視覺函式庫，涵蓋影像處理、特徵偵測、機器學習。常用於工廠產線即時瑕疵檢測。
-
-5. refactoringhq/tolaria
-⭐ 14516 | 🔥 今日 +829 | 💻 TypeScript
+3. refactoringhq/tolaria
+⭐ 15092 | 🔥 今日 +612 | 💻 TypeScript
 🔗 https://github.com/refactoringhq/tolaria
-📝 用 TypeScript 開發的桌面應用，管理 markdown 知識庫檔案。適合研究人員集中管理筆記並快速搜尋連結資料。
+📝 用 TypeScript 開發的桌面 GUI 應用程式，用來管理 markdown 知識庫，適合研究人員整理大量筆記並快速找到檔案間的關聯。
 
-6. aaif-goose/goose
-⭐ 48596 | 🔥 今日 +489 | 💻 Rust
-🔗 https://github.com/aaif-goose/goose
-📝 用 Rust 打造的開源、可擴充 AI agent，能安裝套件、執行指令、編輯檔案並測試，可搭配任意 LLM。適合自動化開發流程。
+4. mvanhorn/last30days-skill
+⭐ 39327 | 🔥 今日 +2535 | 💻 Python
+🔗 https://github.com/mvanhorn/last30days-skill
+📝 AI agent skill，可跨 Reddit、X、YouTube、HN、Polymarket 搜尋某主題近 30 天討論並用 LLM 產出有依據的摘要，適合分析師快速掌握技術或市場趨勢。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-10.md
+5. soxoj/maigret
+⭐ 32206 | 🔥 今日 +318 | 💻 Python
+🔗 https://github.com/soxoj/maigret
+📝 Python 寫的 OSINT 工具，輸入 username 即可掃描 3000+ 網站產生個人資訊 dossier，常用於資安研究人員追蹤帳號數位足跡。
+
+6. x1xhlol/system-prompts-and-models-of-ai-tools
+⭐ 139637 | 🔥 今日 +393 | 💻 (未標示)
+🔗 https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
+📝 收錄 Claude Code、Cursor、Devin AI、Windsurf、v0 等 AI 工具外洩或公開的完整 system prompts 與工具定義，是設計自己 AI agent prompt 架構的重要參考。
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-11.md
