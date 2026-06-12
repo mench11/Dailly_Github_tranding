@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-11
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-12
 
-1. addyosmani/agent-skills
-⭐ 52717 | 🔥 今日 +821 | 💻 Shell
+1. apple/container
+⭐ 33,514 | 🔥 今日 +2,430 | 💻 Swift
+🔗 https://github.com/apple/container
+📝 Apple 用 Swift 開發，在 Mac 上以 lightweight VM 執行 Linux containers，針對 Apple silicon 最佳化。適合在 macOS 本機模擬 Linux 伺服器做 CI/CD 測試。
+
+2. addyosmani/agent-skills
+⭐ 55,490 | 🔥 今日 +3,278 | 💻 Shell
 🔗 https://github.com/addyosmani/agent-skills
-📝 由 Addy Osmani 推出，收錄一系列給 Claude Code 等 AI coding agent 使用的 production-grade 工程技能設定檔，可放進 .claude 目錄讓 agent 在 PR 中遵循一致的程式碼品質標準。
+📝 給 AI coding agent 用的 production-grade 工程技能集合，涵蓋 code review、測試、部署。適合搭配 Claude Code 等 agent 套用標準化工程實踐。
 
-2. phuryn/pm-skills
-⭐ 15487 | 🔥 今日 +804 | 💻 (未標示)
+3. maziyarpanahi/openmed
+⭐ 2,919 | 🔥 今日 +426 | 💻 Python
+🔗 https://github.com/maziyarpanahi/openmed
+📝 開源醫療 AI 函式庫，提供醫療文本 NLP 模型與 pipeline。適合醫院用來從電子病歷自動擷取診斷代碼或藥物資訊。
+
+4. phuryn/pm-skills
+⭐ 16,488 | 🔥 今日 +1,978 | 💻 (無語言標示)
 🔗 https://github.com/phuryn/pm-skills
-📝 給產品經理的 agentic skills 市集，含 100+ 個涵蓋探索到成長階段的 skills、commands 與 plugins，可讓 AI agent 協助寫 PRD、規劃 roadmap，例如自動產生功能上線檢查清單。
+📝 PM Skills Marketplace，收錄 100+ 個產品經理用的 agentic skills、commands、plugins。適合產品團隊用 AI agent 自動產生 PRD 或市場分析報告。
 
-3. refactoringhq/tolaria
-⭐ 15092 | 🔥 今日 +612 | 💻 TypeScript
-🔗 https://github.com/refactoringhq/tolaria
-📝 用 TypeScript 開發的桌面 GUI 應用程式，用來管理 markdown 知識庫，適合研究人員整理大量筆記並快速找到檔案間的關聯。
+5. NVIDIA/SkillSpector
+⭐ 2,914 | 🔥 今日 +319 | 💻 Python
+🔗 https://github.com/NVIDIA/SkillSpector
+📝 NVIDIA 推出的安全掃描工具，檢測 AI agent skills 中的漏洞與惡意程式碼模式。適合企業導入第三方 agent skills 前先掃描是否含惡意指令。
 
-4. mvanhorn/last30days-skill
-⭐ 39327 | 🔥 今日 +2535 | 💻 Python
-🔗 https://github.com/mvanhorn/last30days-skill
-📝 AI agent skill，可跨 Reddit、X、YouTube、HN、Polymarket 搜尋某主題近 30 天討論並用 LLM 產出有依據的摘要，適合分析師快速掌握技術或市場趨勢。
-
-5. soxoj/maigret
-⭐ 32206 | 🔥 今日 +318 | 💻 Python
+6. soxoj/maigret
+⭐ 32,771 | 🔥 今日 +661 | 💻 Python
 🔗 https://github.com/soxoj/maigret
-📝 Python 寫的 OSINT 工具，輸入 username 即可掃描 3000+ 網站產生個人資訊 dossier，常用於資安研究人員追蹤帳號數位足跡。
+📝 OSINT 工具，透過使用者名稱在 3000+ 網站搜尋並彙整個人檔案。適合資安研究人員追蹤可疑帳號在各平台的足跡。
 
-6. x1xhlol/system-prompts-and-models-of-ai-tools
-⭐ 139637 | 🔥 今日 +393 | 💻 (未標示)
-🔗 https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools
-📝 收錄 Claude Code、Cursor、Devin AI、Windsurf、v0 等 AI 工具外洩或公開的完整 system prompts 與工具定義，是設計自己 AI agent prompt 架構的重要參考。
-
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-11.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-12.md
