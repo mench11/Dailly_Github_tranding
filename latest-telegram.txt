@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-12
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-13
 
-1. apple/container
-⭐ 33,514 | 🔥 今日 +2,430 | 💻 Swift
-🔗 https://github.com/apple/container
-📝 Apple 用 Swift 開發，在 Mac 上以 lightweight VM 執行 Linux containers，針對 Apple silicon 最佳化。適合在 macOS 本機模擬 Linux 伺服器做 CI/CD 測試。
-
-2. addyosmani/agent-skills
-⭐ 55,490 | 🔥 今日 +3,278 | 💻 Shell
+1. addyosmani/agent-skills
+⭐ 57177 | 🔥 今日 +2656 | 💻 Shell
 🔗 https://github.com/addyosmani/agent-skills
-📝 給 AI coding agent 用的 production-grade 工程技能集合，涵蓋 code review、測試、部署。適合搭配 Claude Code 等 agent 套用標準化工程實踐。
+📝 這是一套提供給 AI coding agent（例如 Claude Code）使用的生產級工程技能（skills）集合，內含程式碼審查、除錯、測試等流程化指引。適合想讓 agent 在實際軟體專案中遵循最佳實踐的開發團隊，例如導入標準化的 PR 審查與部署前檢查流程。
 
-3. maziyarpanahi/openmed
-⭐ 2,919 | 🔥 今日 +426 | 💻 Python
-🔗 https://github.com/maziyarpanahi/openmed
-📝 開源醫療 AI 函式庫，提供醫療文本 NLP 模型與 pipeline。適合醫院用來從電子病歷自動擷取診斷代碼或藥物資訊。
+2. music-assistant/server
+⭐ 1847 | 🔥 今日 +20 | 💻 Python
+🔗 https://github.com/music-assistant/server
+📝 這是一個開源的音樂媒體庫管理伺服器，可連接多個串流服務並控制各種智慧音箱。適合自建家庭音樂中樞，例如在 Raspberry Pi 或 NAS 上跑這個 server，統一管理 Spotify、本地檔案與多房間喇叭播放。
 
-4. phuryn/pm-skills
-⭐ 16,488 | 🔥 今日 +1,978 | 💻 (無語言標示)
-🔗 https://github.com/phuryn/pm-skills
-📝 PM Skills Marketplace，收錄 100+ 個產品經理用的 agentic skills、commands、plugins。適合產品團隊用 AI agent 自動產生 PRD 或市場分析報告。
+3. mattermost/mattermost
+⭐ 37687 | 🔥 今日 +388 | 💻 TypeScript
+🔗 https://github.com/mattermost/mattermost
+📝 這是一個開源的團隊協作平台，提供類似 Slack 的訊息、頻道與整合功能，涵蓋整個軟體開發生命週期。適合需要自架、注重資料隱私的企業，例如在內部網路部署取代雲端 Slack，並串接 CI/CD 通知。
 
-5. NVIDIA/SkillSpector
-⭐ 2,914 | 🔥 今日 +319 | 💻 Python
-🔗 https://github.com/NVIDIA/SkillSpector
-📝 NVIDIA 推出的安全掃描工具，檢測 AI agent skills 中的漏洞與惡意程式碼模式。適合企業導入第三方 agent skills 前先掃描是否含惡意指令。
+4. apple/container
+⭐ 35439 | 🔥 今日 +3504 | 💻 Swift
+🔗 https://github.com/apple/container
+📝 這是一個用 Swift 寫的工具，利用輕量虛擬機在 Mac 上建立並執行 Linux 容器，並針對 Apple Silicon 做了最佳化。適合在 macOS 上開發跑 Linux 環境的應用，例如本地測試容器化服務而不需安裝完整的 Docker Desktop。
 
-6. soxoj/maigret
-⭐ 32,771 | 🔥 今日 +661 | 💻 Python
-🔗 https://github.com/soxoj/maigret
-📝 OSINT 工具，透過使用者名稱在 3000+ 網站搜尋並彙整個人檔案。適合資安研究人員追蹤可疑帳號在各平台的足跡。
+5. iptv-org/iptv
+⭐ 118154 | 🔥 今日 +179 | 💻 TypeScript
+🔗 https://github.com/iptv-org/iptv
+📝 這是一個收集全球公開 IPTV 頻道清單的專案，提供 m3u 格式的播放清單檔案。適合搭配 VLC 或 Kodi 等播放器，讓使用者快速取得各國新聞、體育與娛樂頻道的串流來源。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-12.md
+6. obra/superpowers
+⭐ 226249 | 🔥 今日 +1275 | 💻 Shell
+🔗 https://github.com/obra/superpowers
+📝 這是一套提供給 AI coding agent 使用的技能框架與軟體開發方法論，幫助 Claude 等 agent 更有效率地完成開發任務。適合想建立標準化 agent 工作流程的團隊，例如把除錯、測試與文件撰寫拆成可重複使用的 skills 模組。
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-13.md
