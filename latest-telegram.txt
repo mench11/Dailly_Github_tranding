@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-14
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-15
 
 1. iptv-org/iptv
-⭐ 119450 | 🔥 今日 +530 | 💻 TypeScript
+⭐ 121,738 | 🔥 今日 +1,528 | 💻 TypeScript
 🔗 https://github.com/iptv-org/iptv
-📝 收集全球公開 IPTV 頻道清單的開源專案，方便取得各國電視台串流網址，可整合進 Kodi 等 media center 軟體觀看世界各地頻道。
+📝 收錄全球公開 IPTV 頻道清單的開源專案，適合開發者打造 IPTV 播放器或整合多國頻道的媒體中心。
 
-2. addyosmani/agent-skills
-⭐ 58721 | 🔥 今日 +1514 | 💻 Shell
-🔗 https://github.com/addyosmani/agent-skills
-📝 一套給 AI coding agent 用的高品質工程 skills 集合，可把程式碼審查、測試撰寫等流程包裝成 skill，讓 Claude Code 自動套用一致的工程規範。
+2. freeCodeCamp/freeCodeCamp
+⭐ 447,426 | 🔥 今日 +146 | 💻 TypeScript
+🔗 https://github.com/freeCodeCamp/freeCodeCamp
+📝 全球知名免費程式設計學習平台，提供 JavaScript、Python、資料科學等課程，適合自學者與教育機構建立課程。
 
-3. chatwoot/chatwoot
-⭐ 30952 | 🔥 今日 +83 | 💻 Ruby
+3. pytest-dev/pytest
+⭐ 14,094 | 🔥 今日 +14 | 💻 Python
+🔗 https://github.com/pytest-dev/pytest
+📝 Python 最受歡迎的測試框架，適合在 CI/CD pipeline 中自動化執行單元測試與回歸測試。
+
+4. swc-project/swc
+⭐ 33,833 | 🔥 今日 +163 | 💻 Rust
+🔗 https://github.com/swc-project/swc
+📝 用 Rust 寫的高效能 Web 工具，可取代 Babel/Terser，適合大型 TypeScript 專案加速 CI 建置流程。
+
+5. chatwoot/chatwoot
+⭐ 31,365 | 🔥 今日 +400 | 💻 Ruby
 🔗 https://github.com/chatwoot/chatwoot
-📝 開源客服與即時通訊平台，提供 live-chat、email 支援與多通路收件箱，是 Intercom、Zendesk 的替代方案，電商可自架伺服器整合社群客服訊息。
+📝 開源客服平台，整合即時聊天與多管道支援，可作為 Intercom/Zendesk 替代方案，適合中小企業自建客服系統。
 
-4. obra/superpowers
-⭐ 227188 | 🔥 今日 +924 | 💻 Shell
-🔗 https://github.com/obra/superpowers
-📝 一套 agentic skills 框架與開發方法論，定義可重複使用的 skill，讓開發團隊規範 Claude 在撰寫程式、除錯與部署時的標準作業程序。
+6. NVIDIA/SkillSpector
+⭐ 5,649 | 🔥 今日 +964 | 💻 Python
+🔗 https://github.com/NVIDIA/SkillSpector
+📝 NVIDIA 推出的 AI agent skill 安全掃描工具，可檢測漏洞與惡意程式碼，適合導入第三方 MCP/agent 擴充套件前的安全審查。
 
-5. apple/container
-⭐ 36512 | 🔥 今日 +1487 | 💻 Swift
-🔗 https://github.com/apple/container
-📝 Apple 推出的工具，可在 Mac 上用輕量虛擬機建立並執行 Linux containers，以 Swift 開發並針對 Apple silicon 最佳化，啟動速度更快。
-
-6. music-assistant/server
-⭐ 2046 | 🔥 今日 +270 | 💻 Python
-🔗 https://github.com/music-assistant/server
-📝 用 Python 開發的免費開源 media library 管理伺服器，可連接串流音樂服務並控制多台網路喇叭，適合在 Raspberry Pi 或 NAS 上長期運行。
-
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-14.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-15.md
