@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-15
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-16
 
 1. iptv-org/iptv
-⭐ 121,738 | 🔥 今日 +1,528 | 💻 TypeScript
+⭐ 123,255 | 🔥 今日 +2,657 | 💻 TypeScript
 🔗 https://github.com/iptv-org/iptv
-📝 收錄全球公開 IPTV 頻道清單的開源專案，適合開發者打造 IPTV 播放器或整合多國頻道的媒體中心。
+📝 全球公開 IPTV 頻道清單，TypeScript 維護；匯入 VLC/Kodi 即可免費收看各國電視，海外僑胞首選。
 
-2. freeCodeCamp/freeCodeCamp
-⭐ 447,426 | 🔥 今日 +146 | 💻 TypeScript
-🔗 https://github.com/freeCodeCamp/freeCodeCamp
-📝 全球知名免費程式設計學習平台，提供 JavaScript、Python、資料科學等課程，適合自學者與教育機構建立課程。
+2. teslamate-org/teslamate
+⭐ 8,303 | 🔥 今日 +33 | 💻 Elixir
+🔗 https://github.com/teslamate-org/teslamate
+📝 Elixir 自架 Tesla 車輛資料記錄器；Docker 部署搭配 Grafana 儀表板，完整掌控行駛與充電歷史。
 
-3. pytest-dev/pytest
-⭐ 14,094 | 🔥 今日 +14 | 💻 Python
-🔗 https://github.com/pytest-dev/pytest
-📝 Python 最受歡迎的測試框架，適合在 CI/CD pipeline 中自動化執行單元測試與回歸測試。
+3. Panniantong/Agent-Reach
+⭐ 30,899 | 🔥 今日 +1,100 | 💻 Python
+🔗 https://github.com/Panniantong/Agent-Reach
+📝 Python CLI 工具，讓 AI agent 免 API 費用讀取 Twitter/Reddit/YouTube/GitHub 即時資訊；可整合 LangChain 建立網路情報 agent。
 
-4. swc-project/swc
-⭐ 33,833 | 🔥 今日 +163 | 💻 Rust
-🔗 https://github.com/swc-project/swc
-📝 用 Rust 寫的高效能 Web 工具，可取代 Babel/Terser，適合大型 TypeScript 專案加速 CI 建置流程。
+4. meshery/meshery
+⭐ 10,698 | 🔥 今日 +228 | 💻 TypeScript
+🔗 https://github.com/meshery/meshery
+📝 TypeScript 雲端原生管理平台，支援 Kubernetes 視覺化設計與 service mesh 管理；GUI 拖拉介面大幅降低 DevOps 操作門檻。
 
 5. chatwoot/chatwoot
-⭐ 31,365 | 🔥 今日 +400 | 💻 Ruby
+⭐ 31,814 | 🔥 今日 +431 | 💻 Ruby
 🔗 https://github.com/chatwoot/chatwoot
-📝 開源客服平台，整合即時聊天與多管道支援，可作為 Intercom/Zendesk 替代方案，適合中小企業自建客服系統。
+📝 Ruby 開源全通路客服平台；整合 live-chat、Email、WhatsApp，可自架取代 Intercom/Zendesk，符合 GDPR 要求。
 
-6. NVIDIA/SkillSpector
-⭐ 5,649 | 🔥 今日 +964 | 💻 Python
-🔗 https://github.com/NVIDIA/SkillSpector
-📝 NVIDIA 推出的 AI agent skill 安全掃描工具，可檢測漏洞與惡意程式碼，適合導入第三方 MCP/agent 擴充套件前的安全審查。
+6. krahets/hello-algo
+⭐ 127,137 | 🔥 今日 +71 | 💻 Java
+🔗 https://github.com/krahets/hello-algo
+📝 動畫圖解資料結構與演算法教學書，支援繁中/English/日語；附 Python、Java、Rust、Go 等十餘種語言實作，備考面試必備。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-15.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-16.md
