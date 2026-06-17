@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-16
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-17
 
-1. iptv-org/iptv
-⭐ 123,255 | 🔥 今日 +2,657 | 💻 TypeScript
-🔗 https://github.com/iptv-org/iptv
-📝 全球公開 IPTV 頻道清單，TypeScript 維護；匯入 VLC/Kodi 即可免費收看各國電視，海外僑胞首選。
+1. freeCodeCamp/freeCodeCamp
+⭐ 448776 | 🔥 今日 +633 | 💻 TypeScript
+🔗 https://github.com/freeCodeCamp/freeCodeCamp
+📝 這是全球最大的開源程式教育平台，提供數學、程式設計與電腦科學的免費互動課程，以 TypeScript 構建完整的學習管理系統。適合零基礎的初學者系統性地學習 JavaScript、Python、React 等技術；例如轉職工程師的人可...
 
-2. teslamate-org/teslamate
-⭐ 8,303 | 🔥 今日 +33 | 💻 Elixir
+2. swc-project/swc
+⭐ 34012 | 🔥 今日 +20 | 💻 Rust
+🔗 https://github.com/swc-project/swc
+📝 這是一個用 Rust 編寫的超高速 JavaScript / TypeScript 編譯器與打包工具，速度比傳統的 Babel 快數十倍。適合大型前端專案需要縮短 CI/CD 建置時間的場景；例如 Next.js 已內建 SWC 作為...
+
+3. teslamate-org/teslamate
+⭐ 8445 | 🔥 今日 +215 | 💻 Elixir
 🔗 https://github.com/teslamate-org/teslamate
-📝 Elixir 自架 Tesla 車輛資料記錄器；Docker 部署搭配 Grafana 儀表板，完整掌控行駛與充電歷史。
+📝 這是一個用 Elixir 開發的自架式 Tesla 車輛資料記錄器，可追蹤行駛里程、電池狀態、充電紀錄等數據，並透過 Grafana 儀表板視覺化呈現。適合注重隱私又想深入分析愛車數據的 Tesla 車主；例如可以用 Docker 在...
 
-3. Panniantong/Agent-Reach
-⭐ 30,899 | 🔥 今日 +1,100 | 💻 Python
-🔗 https://github.com/Panniantong/Agent-Reach
-📝 Python CLI 工具，讓 AI agent 免 API 費用讀取 Twitter/Reddit/YouTube/GitHub 即時資訊；可整合 LangChain 建立網路情報 agent。
+4. iptv-org/iptv
+⭐ 124451 | 🔥 今日 +1197 | 💻 TypeScript
+🔗 https://github.com/iptv-org/iptv
+📝 這是一個蒐集全球公開 IPTV 頻道的開源專案，以 TypeScript 維護頻道清單與自動化驗證流程，涵蓋數千個國家與地區的電視頻道。適合想在不同裝置上收看國際電視節目的使用者；例如搭配 VLC 或 Kodi 等播放器，即可在手機或...
 
-4. meshery/meshery
-⭐ 10,698 | 🔥 今日 +228 | 💻 TypeScript
+5. puppeteer/puppeteer
+⭐ 94960 | 🔥 今日 +56 | 💻 TypeScript
+🔗 https://github.com/puppeteer/puppeteer
+📝 這是 Google 維護的 JavaScript API 函式庫，可程式化控制 Chrome 與 Firefox 瀏覽器，用於網頁自動化測試、截圖與爬蟲。適合需要端對端測試或自動化網頁操作的開發團隊；例如電商平台可用它定期截取競品頁面...
+
+6. meshery/meshery
+⭐ 10909 | 🔥 今日 +228 | 💻 TypeScript
 🔗 https://github.com/meshery/meshery
-📝 TypeScript 雲端原生管理平台，支援 Kubernetes 視覺化設計與 service mesh 管理；GUI 拖拉介面大幅降低 DevOps 操作門檻。
+📝 這是一個雲端原生基礎設施管理平台，提供 GUI 介面來管理 Kubernetes 叢集上的服務網格（如 Istio、Linkerd）及其他雲端原生元件。適合 DevOps 團隊需要統一管理多種基礎設施工具的場景；例如在多叢集環境中透過...
 
-5. chatwoot/chatwoot
-⭐ 31,814 | 🔥 今日 +431 | 💻 Ruby
-🔗 https://github.com/chatwoot/chatwoot
-📝 Ruby 開源全通路客服平台；整合 live-chat、Email、WhatsApp，可自架取代 Intercom/Zendesk，符合 GDPR 要求。
-
-6. krahets/hello-algo
-⭐ 127,137 | 🔥 今日 +71 | 💻 Java
-🔗 https://github.com/krahets/hello-algo
-📝 動畫圖解資料結構與演算法教學書，支援繁中/English/日語；附 Python、Java、Rust、Go 等十餘種語言實作，備考面試必備。
-
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-16.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-17.md
