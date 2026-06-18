@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-17
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-18
 
-1. freeCodeCamp/freeCodeCamp
-⭐ 448776 | 🔥 今日 +633 | 💻 TypeScript
-🔗 https://github.com/freeCodeCamp/freeCodeCamp
-📝 這是全球最大的開源程式教育平台，提供數學、程式設計與電腦科學的免費互動課程，以 TypeScript 構建完整的學習管理系統。適合零基礎的初學者系統性地學習 JavaScript、Python、React 等技術；例如轉職工程師的人可...
+1. DeusData/codebase-memory-mcp
+⭐ 5953 | 🔥 今日 +371 | 💻 C
+🔗 https://github.com/DeusData/codebase-memory-mcp
+📝 這是一個高效能的 MCP server，能將程式碼庫索引為持久化的知識圖譜，支援 158 種程式語言，查詢速度達到亞毫秒等級，大幅減少 LLM 所需的 token 數量。適合大型團隊在 IDE 中整合 AI 助手時使用，例如讓 Claude 或 GPT 在理解整個專案架構後精準回答問題，而不需要每次都把大量原始碼塞進 prompt。以 C 語言編寫的單一靜態二進位檔案，零依賴，部署極為簡便。
 
-2. swc-project/swc
-⭐ 34012 | 🔥 今日 +20 | 💻 Rust
-🔗 https://github.com/swc-project/swc
-📝 這是一個用 Rust 編寫的超高速 JavaScript / TypeScript 編譯器與打包工具，速度比傳統的 Babel 快數十倍。適合大型前端專案需要縮短 CI/CD 建置時間的場景；例如 Next.js 已內建 SWC 作為...
+2. n0-computer/iroh
+⭐ 9751 | 🔥 今日 +421 | 💻 Rust
+🔗 https://github.com/n0-computer/iroh
+📝 Iroh 是一個用 Rust 打造的模組化網路堆疊，核心概念是用密鑰取代 IP 位址來建立連線，讓點對點通訊不再受 NAT 或動態 IP 的限制。適合需要去中心化資料同步的應用場景，例如分散式協作軟體或 IoT 裝置之間的安全通訊，開發者可以像組合積木一樣選用所需的網路功能模組。
 
-3. teslamate-org/teslamate
-⭐ 8445 | 🔥 今日 +215 | 💻 Elixir
-🔗 https://github.com/teslamate-org/teslamate
-📝 這是一個用 Elixir 開發的自架式 Tesla 車輛資料記錄器，可追蹤行駛里程、電池狀態、充電紀錄等數據，並透過 Grafana 儀表板視覺化呈現。適合注重隱私又想深入分析愛車數據的 Tesla 車主；例如可以用 Docker 在...
+3. Panniantong/Agent-Reach
+⭐ 33641 | 🔥 今日 +1161 | 💻 Python
+🔗 https://github.com/Panniantong/Agent-Reach
+📝 Agent-Reach 讓 AI agent 能夠瀏覽和搜尋 Twitter、Reddit、YouTube、GitHub 等多個平台的內容，只需一個 CLI 即可操作，完全不需要付費 API。特別適合建構需要即時網路資訊的 AI 工作流程，例如讓 LLM agent 自動監控社群媒體上的產品評價，或是從多個來源彙整特定主題的最新討論，是 RAG 和 agent 應用的實用工具。
 
-4. iptv-org/iptv
-⭐ 124451 | 🔥 今日 +1197 | 💻 TypeScript
-🔗 https://github.com/iptv-org/iptv
-📝 這是一個蒐集全球公開 IPTV 頻道的開源專案，以 TypeScript 維護頻道清單與自動化驗證流程，涵蓋數千個國家與地區的電視頻道。適合想在不同裝置上收看國際電視節目的使用者；例如搭配 VLC 或 Kodi 等播放器，即可在手機或...
-
-5. puppeteer/puppeteer
-⭐ 94960 | 🔥 今日 +56 | 💻 TypeScript
-🔗 https://github.com/puppeteer/puppeteer
-📝 這是 Google 維護的 JavaScript API 函式庫，可程式化控制 Chrome 與 Firefox 瀏覽器，用於網頁自動化測試、截圖與爬蟲。適合需要端對端測試或自動化網頁操作的開發團隊；例如電商平台可用它定期截取競品頁面...
-
-6. meshery/meshery
-⭐ 10909 | 🔥 今日 +228 | 💻 TypeScript
+4. meshery/meshery
+⭐ 11073 | 🔥 今日 +196 | 💻 TypeScript
 🔗 https://github.com/meshery/meshery
-📝 這是一個雲端原生基礎設施管理平台，提供 GUI 介面來管理 Kubernetes 叢集上的服務網格（如 Istio、Linkerd）及其他雲端原生元件。適合 DevOps 團隊需要統一管理多種基礎設施工具的場景；例如在多叢集環境中透過...
+📝 Meshery 是一個雲原生管理平台，提供視覺化介面來設計、部署和管理 Kubernetes 及 service mesh 架構。適合 DevOps 團隊在多叢集環境下統一管理微服務基礎設施，例如同時管理多個 Kubernetes 叢集的 Istio 或 Envoy 設定，並透過 GUI 快速進行效能測試和組態調整，降低 CI/CD 流程中的複雜度。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-17.md
+5. obra/superpowers
+⭐ 231483 | 🔥 今日 +1129 | 💻 Shell
+🔗 https://github.com/obra/superpowers
+📝 Superpowers 是一套 agentic 技能框架與軟體開發方法論，提供結構化的方式讓 AI agent 更有效地執行開發任務。適合希望將 AI 深度整合到日常開發流程中的團隊，例如用 Shell 腳本定義一系列可重複使用的 agent 技能，讓 Claude 或其他 LLM 能按照既定流程自動完成程式碼審查、重構或文件撰寫等工作。
+
+6. google-research/timesfm
+⭐ 22100 | 🔥 今日 +606 | 💻 Python
+🔗 https://github.com/google-research/timesfm
+📝 TimesFM 是 Google Research 開發的時間序列基礎模型，預訓練後可直接用於各種時間序列預測任務，無需針對特定領域重新訓練。適合需要快速建立預測系統的場景，例如零售業的銷售量預測、能源產業的用電負載預估，或是金融領域的指標趨勢分析，只需用 Python 幾行程式碼就能獲得高品質的預測結果。
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-18.md
