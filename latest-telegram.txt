@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-18
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-19
 
-1. DeusData/codebase-memory-mcp
-⭐ 5953 | 🔥 今日 +371 | 💻 C
-🔗 https://github.com/DeusData/codebase-memory-mcp
-📝 這是一個高效能的 MCP server，能將程式碼庫索引為持久化的知識圖譜，支援 158 種程式語言，查詢速度達到亞毫秒等級，大幅減少 LLM 所需的 token 數量。適合大型團隊在 IDE 中整合 AI 助手時使用，例如讓 Claude 或 GPT 在理解整個專案架構後精準回答問題，而不需要每次都把大量原始碼塞進 prompt。以 C 語言編寫的單一靜態二進位檔案，零依賴，部署極為簡便。
+1. google-research/timesfm
+⭐ 23517 | 🔥 今日 +844 | 💻 Python
+🔗 https://github.com/google-research/timesfm
+📝 TimesFM 是 Google Research 開發的時間序列基礎模型（Time Series Foundation Model），以 Python 打造，可直接用於時間序列預測，無需針對特定領域重新訓練。它適合金融市場走勢預估、…
 
 2. n0-computer/iroh
-⭐ 9751 | 🔥 今日 +421 | 💻 Rust
+⭐ 10075 | 🔥 今日 +369 | 💻 Rust
 🔗 https://github.com/n0-computer/iroh
-📝 Iroh 是一個用 Rust 打造的模組化網路堆疊，核心概念是用密鑰取代 IP 位址來建立連線，讓點對點通訊不再受 NAT 或動態 IP 的限制。適合需要去中心化資料同步的應用場景，例如分散式協作軟體或 IoT 裝置之間的安全通訊，開發者可以像組合積木一樣選用所需的網路功能模組。
+📝 Iroh 是一套以 Rust 撰寫的模組化網路堆疊，核心概念是「用金鑰取代 IP 位址」，讓節點之間建立加密、可靠的連線，即使雙方都在 NAT 後方也能直連。它非常適合需要 P2P 通訊的分散式應用；例如多人協作的即時文件編輯器可用 …
 
-3. Panniantong/Agent-Reach
-⭐ 33641 | 🔥 今日 +1161 | 💻 Python
-🔗 https://github.com/Panniantong/Agent-Reach
-📝 Agent-Reach 讓 AI agent 能夠瀏覽和搜尋 Twitter、Reddit、YouTube、GitHub 等多個平台的內容，只需一個 CLI 即可操作，完全不需要付費 API。特別適合建構需要即時網路資訊的 AI 工作流程，例如讓 LLM agent 自動監控社群媒體上的產品評價，或是從多個來源彙整特定主題的最新討論，是 RAG 和 agent 應用的實用工具。
+3. freeCodeCamp/freeCodeCamp
+⭐ 449646 | 🔥 今日 +417 | 💻 TypeScript
+🔗 https://github.com/freeCodeCamp/freeCodeCamp
+📝 freeCodeCamp 是全球最大的開源程式教育平台，以 TypeScript 建構課程系統，涵蓋數學、程式設計與電腦科學等完整學習路線。任何人都可免費取得業界認可的證書；例如轉職工程師可透過 freeCodeCamp 的互動式課程…
 
-4. meshery/meshery
-⭐ 11073 | 🔥 今日 +196 | 💻 TypeScript
-🔗 https://github.com/meshery/meshery
-📝 Meshery 是一個雲原生管理平台，提供視覺化介面來設計、部署和管理 Kubernetes 及 service mesh 架構。適合 DevOps 團隊在多叢集環境下統一管理微服務基礎設施，例如同時管理多個 Kubernetes 叢集的 Istio 或 Envoy 設定，並透過 GUI 快速進行效能測試和組態調整，降低 CI/CD 流程中的複雜度。
-
-5. obra/superpowers
-⭐ 231483 | 🔥 今日 +1129 | 💻 Shell
+4. obra/superpowers
+⭐ 232649 | 🔥 今日 +1,429 | 💻 Shell
 🔗 https://github.com/obra/superpowers
-📝 Superpowers 是一套 agentic 技能框架與軟體開發方法論，提供結構化的方式讓 AI agent 更有效地執行開發任務。適合希望將 AI 深度整合到日常開發流程中的團隊，例如用 Shell 腳本定義一系列可重複使用的 agent 技能，讓 Claude 或其他 LLM 能按照既定流程自動完成程式碼審查、重構或文件撰寫等工作。
+📝 Superpowers 是一套以 Shell 腳本為基礎的 agentic 技能框架，專為 AI 驅動的軟體開發流程設計，提供可組合的技能模組與方法論。它能讓 LLM agent 按照結構化流程完成複雜的程式碼任務；例如開發團隊可利用…
 
-6. google-research/timesfm
-⭐ 22100 | 🔥 今日 +606 | 💻 Python
-🔗 https://github.com/google-research/timesfm
-📝 TimesFM 是 Google Research 開發的時間序列基礎模型，預訓練後可直接用於各種時間序列預測任務，無需針對特定領域重新訓練。適合需要快速建立預測系統的場景，例如零售業的銷售量預測、能源產業的用電負載預估，或是金融領域的指標趨勢分析，只需用 Python 幾行程式碼就能獲得高品質的預測結果。
+5. zai-org/GLM-5
+⭐ 4258 | 🔥 今日 +202 | 💻 N/A
+🔗 https://github.com/zai-org/GLM-5
+📝 GLM-5 是智譜推出的新一代大型語言模型，主題為「從 Vibe Coding 邁向 Agentic Engineering」，強調模型在自主完成複雜工程任務方面的能力提升。它適合需要 AI agent 自動化開發與除錯的場景；例如企…
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-18.md
+6. DeusData/codebase-memory-mcp
+⭐ 7303 | 🔥 今日 +2,322 | 💻 C
+🔗 https://github.com/DeusData/codebase-memory-mcp
+📝 Codebase Memory MCP 是一款高效能的程式碼智慧 MCP server，以 C 語言開發，能將整個程式碼庫索引為持久化知識圖譜，支援 158 種語言且查詢延遲低於毫秒級。它大幅減少 LLM 所需的 token 數量（降…
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-19.md
