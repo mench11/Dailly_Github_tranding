@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-19
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-20
 
-1. google-research/timesfm
-⭐ 23517 | 🔥 今日 +844 | 💻 Python
-🔗 https://github.com/google-research/timesfm
-📝 TimesFM 是 Google Research 開發的時間序列基礎模型（Time Series Foundation Model），以 Python 打造，可直接用於時間序列預測，無需針對特定領域重新訓練。它適合金融市場走勢預估、…
-
-2. n0-computer/iroh
-⭐ 10075 | 🔥 今日 +369 | 💻 Rust
-🔗 https://github.com/n0-computer/iroh
-📝 Iroh 是一套以 Rust 撰寫的模組化網路堆疊，核心概念是「用金鑰取代 IP 位址」，讓節點之間建立加密、可靠的連線，即使雙方都在 NAT 後方也能直連。它非常適合需要 P2P 通訊的分散式應用；例如多人協作的即時文件編輯器可用 …
-
-3. freeCodeCamp/freeCodeCamp
-⭐ 449646 | 🔥 今日 +417 | 💻 TypeScript
-🔗 https://github.com/freeCodeCamp/freeCodeCamp
-📝 freeCodeCamp 是全球最大的開源程式教育平台，以 TypeScript 建構課程系統，涵蓋數學、程式設計與電腦科學等完整學習路線。任何人都可免費取得業界認可的證書；例如轉職工程師可透過 freeCodeCamp 的互動式課程…
-
-4. obra/superpowers
-⭐ 232649 | 🔥 今日 +1,429 | 💻 Shell
-🔗 https://github.com/obra/superpowers
-📝 Superpowers 是一套以 Shell 腳本為基礎的 agentic 技能框架，專為 AI 驅動的軟體開發流程設計，提供可組合的技能模組與方法論。它能讓 LLM agent 按照結構化流程完成複雜的程式碼任務；例如開發團隊可利用…
-
-5. zai-org/GLM-5
-⭐ 4258 | 🔥 今日 +202 | 💻 N/A
-🔗 https://github.com/zai-org/GLM-5
-📝 GLM-5 是智譜推出的新一代大型語言模型，主題為「從 Vibe Coding 邁向 Agentic Engineering」，強調模型在自主完成複雜工程任務方面的能力提升。它適合需要 AI agent 自動化開發與除錯的場景；例如企…
-
-6. DeusData/codebase-memory-mcp
-⭐ 7303 | 🔥 今日 +2,322 | 💻 C
+1. DeusData/codebase-memory-mcp
+⭐ 8544 | 🔥 今日 +1058 | 💻 C
 🔗 https://github.com/DeusData/codebase-memory-mcp
-📝 Codebase Memory MCP 是一款高效能的程式碼智慧 MCP server，以 C 語言開發，能將整個程式碼庫索引為持久化知識圖譜，支援 158 種語言且查詢延遲低於毫秒級。它大幅減少 LLM 所需的 token 數量（降…
+📝 這是一個高效能的 MCP 伺服器，能將整個程式碼庫索引為持久化知識圖譜，支援 158 種程式語言，查詢速度達到毫秒等級，大幅減少 token 消耗。它特別適合搭配 AI agent 使用，讓 LLM 快速理解大型專案結構；例如在 Cl…
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-19.md
+2. google-research/timesfm
+⭐ 24175 | 🔥 今日 +1510 | 💻 Python
+🔗 https://github.com/google-research/timesfm
+📝 TimesFM 是 Google Research 開發的時間序列基礎模型，專門用於預測任務，無需針對特定資料集進行 fine-tuning 即可達到優異效果。這個 Python 函式庫非常適合金融、零售與能源產業的需求預測；例如電商…
+
+3. palmier-io/palmier-pro
+⭐ 2106 | 🔥 今日 +756 | 💻 Swift
+🔗 https://github.com/palmier-io/palmier-pro
+📝 Palmier Pro 是一款專為 AI 工作流程設計的 macOS 影片編輯器，透過原生 Swift 開發，充分利用 Apple Silicon 的 GPU 加速能力。它讓創作者能用 AI 輔助剪輯、特效生成等流程；例如 YouTu…
+
+4. koala73/worldmonitor
+⭐ 57433 | 🔥 今日 +156 | 💻 TypeScript
+🔗 https://github.com/koala73/worldmonitor
+📝 WorldMonitor 是一個即時全球情報儀表板，整合 AI 驅動的新聞聚合、地緣政治監控與基礎設施追蹤功能，以 TypeScript 建構統一的態勢感知介面。它適合安全分析師與企業風控團隊使用；例如跨國企業可用它即時監控供應鏈沿線…
+
+5. aishwaryanr/awesome-generative-ai-guide
+⭐ 27713 | 🔥 今日 +107 | 💻 HTML
+🔗 https://github.com/aishwaryanr/awesome-generative-ai-guide
+📝 這是一個生成式 AI 領域的綜合學習資源庫，涵蓋最新研究論文、面試準備資料與實作 notebook，持續追蹤 LLM、RAG、agent 等技術的最新進展。非常適合準備 AI 工程師面試或想系統性學習 transformer 架構的開…
+
+6. BuilderIO/agent-native
+⭐ 1127 | 🔥 今日 +147 | 💻 TypeScript
+🔗 https://github.com/BuilderIO/agent-native
+📝 Agent-Native 是 Builder.io 推出的框架，專門用於建構以 AI agent 為核心的應用程式，讓開發者能快速搭建 agent 驅動的互動介面。它以 TypeScript 開發，適合需要整合多個 LLM agent…
+
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-20.md
