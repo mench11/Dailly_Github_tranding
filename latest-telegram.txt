@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-21
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-22
 
 1. palmier-io/palmier-pro
-⭐ 3,774 | 🔥 今日 +902 | 💻 Swift
+⭐ 5907 | 🔥 今日 +1834 | 💻 Swift
 🔗 https://github.com/palmier-io/palmier-pro
-📝 一款專為 AI 工作流程設計的 macOS 影片編輯器，以 Swift 開發，深度整合 AI 功能來加速影片後製流程。適合內容創作者和影片製作團隊用來自動化剪輯、字幕生成等重複性工作；例如 YouTube 創作者可以用它搭配 AI 自動產生精華片段，大幅縮短後製時間。
+📝 一款專為 AI 工作流程設計的 macOS 影片編輯器，以 Swift 打造，提供直覺的原生體驗。它能讓創作者快速整合 AI 生成的素材進行剪輯與後製，大幅縮短影片製作時間；例如 YouTuber 可以用它將 AI 生成的片段自動排列、調色並輸出成品，省去繁瑣的手動操作。
 
-2. penpot/penpot
-⭐ 51,688 | 🔥 今日 +420 | 💻 Clojure
-🔗 https://github.com/penpot/penpot
-📝 一個開源的設計工具，使用 Clojure 開發，主打設計師與開發者之間的協作，可作為 Figma 的自架替代方案。它支援即時協作、SVG 原生格式輸出，且可透過 Docker 自行部署在私有伺服器上；例如注重資料隱私的企業團隊可以用它來取代 SaaS 設計工具，同時保留完整的設計到程式碼交接流程。
-
-3. calesthio/OpenMontage
-⭐ 7,280 | 🔥 今日 +677 | 💻 Python
+2. calesthio/OpenMontage
+⭐ 9629 | 🔥 今日 +987 | 💻 Python
 🔗 https://github.com/calesthio/OpenMontage
-📝 全球首個開源的 agent 驅動影片製作系統，提供 12 條 pipeline、52 種工具和超過 500 項 agent 技能，用 Python 打造。它能將你的 AI 編程助手變成完整的影片製作工作室；例如行銷團隊可以用它搭配 LLM 自動化產出社群媒體短影片，從腳本撰寫到最終剪輯一條龍完成。
+📝 全球首個開源的 agent 驅動影片製作系統，內建 12 條 pipeline、52 個工具與超過 500 項 agent 技能，以 Python 編寫。它能把你的 AI 編程助手變成完整的影片製作工作室，從腳本到成片一氣呵成；適合獨立創作者或小型團隊用來自動化整個影片後製流程，例如批量生成教...
+
+3. chopratejas/headroom
+⭐ 45331 | 🔥 今日 +2624 | 💻 Python
+🔗 https://github.com/chopratejas/headroom
+📝 一個用 Python 開發的 LLM token 壓縮工具，可將工具輸出、日誌、檔案與 RAG 片段壓縮 60-95%，同時保持回答品質不變。它提供函式庫、proxy 與 MCP server 三種使用模式，整合彈性極高；對於大量使用 LLM API 的企業來說，能有效降低 token 成本，...
 
 4. tursodatabase/turso
-⭐ 20,445 | 🔥 今日 +801 | 💻 Rust
+⭐ 20964 | 🔥 今日 +548 | 💻 Rust
 🔗 https://github.com/tursodatabase/turso
-📝 一個用 Rust 開發的嵌入式 SQL 資料庫，與 SQLite 完全相容，兼具高效能與低延遲的特性。它支援邊緣運算部署，適合需要分散式資料存取的應用場景；例如開發全球化的 Web 應用時，可以在各地的 edge server 上運行 Turso 來實現毫秒級的資料查詢回應。
+📝 一個用 Rust 編寫、與 SQLite 相容的嵌入式 SQL 資料庫，可直接在應用程式行程內執行。它結合了 SQLite 的輕量與簡易，同時提供更好的效能與擴展能力；適合需要低延遲本地資料存取的場景，例如邊緣運算應用或 serverless 函式中取代傳統的遠端資料庫連線。
 
-5. DeusData/codebase-memory-mcp
-⭐ 9,593 | 🔥 今日 +1271 | 💻 C
-🔗 https://github.com/DeusData/codebase-memory-mcp
-📝 一個高效能的程式碼智慧 MCP 伺服器，用 C 語言開發，能將程式碼庫索引成持久化的知識圖譜，支援 158 種程式語言且查詢速度達到亞毫秒級。它能減少 99% 的 token 消耗，是單一靜態二進位檔且零依賴；例如大型專案團隊可以用它搭配 Claude 或其他 LLM，讓 AI 助手快速理解整個程式碼庫結構而不會耗盡 context window。
+5. penpot/penpot
+⭐ 52460 | 🔥 今日 +1135 | 💻 Clojure
+🔗 https://github.com/penpot/penpot
+📝 一個以 Clojure 打造的開源設計工具，專注於設計師與開發者之間的協作流程。它支援向量繪圖、原型設計與即時協作，可自行部署在私有伺服器上確保資料安全；適合希望擺脫 Figma 等商業工具限制的團隊，例如開源專案團隊可用它進行 UI 設計並直接匯出開發所需的設計規格。
 
-6. google-research/timesfm
-⭐ 24,642 | 🔥 今日 +433 | 💻 Python
-🔗 https://github.com/google-research/timesfm
-📝 由 Google Research 開發的時間序列基礎模型（Time Series Foundation Model），用 Python 和 PyTorch 構建，專門用於時間序列預測任務。它是預訓練模型，可直接用於各種預測場景而無需大量微調；例如零售業可以用它來預測商品銷售趨勢，或是能源公司用來預估電力需求，實現更精準的資源配置。
+6. ZhuLinsen/daily_stock_analysis
+⭐ 45006 | 🔥 今日 +568 | 💻 Python
+🔗 https://github.com/ZhuLinsen/daily_stock_analysis
+📝 一個 LLM 驅動的多市場股票智能分析系統，使用 Python 開發，整合多源行情資料、即時新聞與決策看板，並支援自動推送通知。它支援零成本定時運行，適合個人投資者自動追蹤多個市場的動態；例如可以設定每日自動分析美股與港股的技術指標與新聞情緒，再透過推送取得投資建議摘要。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-21.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-22.md
