@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-22
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-23
 
-1. palmier-io/palmier-pro
-⭐ 5907 | 🔥 今日 +1834 | 💻 Swift
-🔗 https://github.com/palmier-io/palmier-pro
-📝 一款專為 AI 工作流程設計的 macOS 影片編輯器，以 Swift 打造，提供直覺的原生體驗。它能讓創作者快速整合 AI 生成的素材進行剪輯與後製，大幅縮短影片製作時間；例如 YouTuber 可以用它將 AI 生成的片段自動排列、調色並輸出成品，省去繁瑣的手動操作。
-
-2. calesthio/OpenMontage
-⭐ 9629 | 🔥 今日 +987 | 💻 Python
+1. calesthio/OpenMontage
+⭐ 13114 | 🔥 今日 +2938 | 💻 Python
 🔗 https://github.com/calesthio/OpenMontage
-📝 全球首個開源的 agent 驅動影片製作系統，內建 12 條 pipeline、52 個工具與超過 500 項 agent 技能，以 Python 編寫。它能把你的 AI 編程助手變成完整的影片製作工作室，從腳本到成片一氣呵成；適合獨立創作者或小型團隊用來自動化整個影片後製流程，例如批量生成教...
+📝 一個開源的 agentic 影片製作系統，以 Python 建構，整合了 12 條 pipeline、52 種工具與超過 500 項 agent 技能，可將 AI 程式助手轉變為完整的影片製作工作室。適合內容創作者或行銷團隊快速產出高品質影片；例如電商品牌可用它自動生成產品介紹短影音，大幅縮短...
 
-3. chopratejas/headroom
-⭐ 45331 | 🔥 今日 +2624 | 💻 Python
-🔗 https://github.com/chopratejas/headroom
-📝 一個用 Python 開發的 LLM token 壓縮工具，可將工具輸出、日誌、檔案與 RAG 片段壓縮 60-95%，同時保持回答品質不變。它提供函式庫、proxy 與 MCP server 三種使用模式，整合彈性極高；對於大量使用 LLM API 的企業來說，能有效降低 token 成本，...
+2. palmier-io/palmier-pro
+⭐ 7822 | 🔥 今日 +2463 | 💻 Swift
+🔗 https://github.com/palmier-io/palmier-pro
+📝 一款專為 AI 工作流程設計的 macOS 影片編輯器，以 Swift 開發，強調與 AI 模型的深度整合。對於需要在 macOS 上進行 AI 輔助剪輯的創作者非常實用；例如 YouTuber 可利用它快速透過 AI 自動剪輯、字幕生成與場景偵測來加速後製流程。
 
-4. tursodatabase/turso
-⭐ 20964 | 🔥 今日 +548 | 💻 Rust
-🔗 https://github.com/tursodatabase/turso
-📝 一個用 Rust 編寫、與 SQLite 相容的嵌入式 SQL 資料庫，可直接在應用程式行程內執行。它結合了 SQLite 的輕量與簡易，同時提供更好的效能與擴展能力；適合需要低延遲本地資料存取的場景，例如邊緣運算應用或 serverless 函式中取代傳統的遠端資料庫連線。
+3. jamiepine/voicebox
+⭐ 32591 | 🔥 今日 +529 | 💻 TypeScript
+🔗 https://github.com/jamiepine/voicebox
+📝 一個開源的 AI 語音工作室，使用 TypeScript 開發，支援語音複製、語音聽寫與語音內容創作功能。非常適合需要高品質語音合成的應用場景；例如 podcast 製作者可用它快速生成多語言旁白，或遊戲開發者用來為 NPC 角色建立自訂語音。
+
+4. mukul975/Anthropic-Cybersecurity-Skills
+⭐ 18998 | 🔥 今日 +956 | 💻 Python
+🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+📝 收錄了 817 項結構化的網路安全技能，涵蓋 MITRE ATT&CK、NIST CSF 2.0 等六大框架，並以 Python 實作，支援 Claude Code、GitHub Copilot 等 20 多個 AI 平台。資安團隊可用它來強化 AI agent 的威脅偵測與回應能力；例如 S...
 
 5. penpot/penpot
-⭐ 52460 | 🔥 今日 +1135 | 💻 Clojure
+⭐ 53034 | 🔥 今日 +728 | 💻 Clojure
 🔗 https://github.com/penpot/penpot
-📝 一個以 Clojure 打造的開源設計工具，專注於設計師與開發者之間的協作流程。它支援向量繪圖、原型設計與即時協作，可自行部署在私有伺服器上確保資料安全；適合希望擺脫 Figma 等商業工具限制的團隊，例如開源專案團隊可用它進行 UI 設計並直接匯出開發所需的設計規格。
+📝 一個以 Clojure 開發的開源設計工具，專注於設計師與開發者之間的協作，是 Figma 的開源替代方案。支援自架伺服器部署，適合重視資料隱私的團隊；例如企業內部 UI/UX 團隊可用它在自有基礎設施上完成設計稿與前端程式碼的無縫銜接。
 
-6. ZhuLinsen/daily_stock_analysis
-⭐ 45006 | 🔥 今日 +568 | 💻 Python
-🔗 https://github.com/ZhuLinsen/daily_stock_analysis
-📝 一個 LLM 驅動的多市場股票智能分析系統，使用 Python 開發，整合多源行情資料、即時新聞與決策看板，並支援自動推送通知。它支援零成本定時運行，適合個人投資者自動追蹤多個市場的動態；例如可以設定每日自動分析美股與港股的技術指標與新聞情緒，再透過推送取得投資建議摘要。
+6. Stirling-Tools/Stirling-PDF
+⭐ 83274 | 🔥 今日 +547 | 💻 TypeScript
+🔗 https://github.com/Stirling-Tools/Stirling-PDF
+📝 GitHub 上排名第一的 PDF 處理應用程式，以 TypeScript 開發，支援在任何裝置上編輯 PDF 檔案，可透過 Docker 自架部署。適合需要大量處理 PDF 的辦公場景；例如法務部門可用它在內網環境中安全地進行 PDF 合併、分割、加密與 OCR 文字辨識。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-22.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-23.md
