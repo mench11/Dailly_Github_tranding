@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-24
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-25
 
 1. calesthio/OpenMontage
-⭐ 16,737 | 🔥 今日 +3,592 | 💻 Python
+⭐ 20,421 | 🔥 今日 +3,719 | 💻 Python
 🔗 https://github.com/calesthio/OpenMontage
-📝 一套開源的 agentic 影片製作系統，內建 12 條 pipeline、52 種工具與超過 500 個 agent 技能，能自動完成從腳本到剪輯的完整流程。適合獨立影片創作者或小型工作室快速產出高品質內容；例如 YouTuber …
+📝 全球首個開源 agent 驅動影片製作系統，內建 12 條 pipeline 與 500+ agent 技能，適合內容創作者批量產出高品質影片。
 
 2. ZhuLinsen/daily_stock_analysis
-⭐ 47,581 | 🔥 今日 +1,119 | 💻 Python
+⭐ 48,990 | 🔥 今日 +1,468 | 💻 Python
 🔗 https://github.com/ZhuLinsen/daily_stock_analysis
-📝 一個以 LLM 驅動的多市場股票分析工具，整合多來源行情數據與即時新聞，並提供互動式決策儀表板。對量化交易愛好者或個人投資者非常實用；例如可每日自動彙整美股與台股的異常波動，結合新聞摘要產出投資建議報告。
+📝 基於 LLM 的多市場股票分析系統，整合即時新聞與決策儀表板，適合量化交易者建立每日股市觀察報告。
 
-3. mukul975/Anthropic-Cybersecurity-Skills
-⭐ 20,050 | 🔥 今日 +1,041 | 💻 Python
-🔗 https://github.com/mukul975/Anthropic-Cybersecurity-Skills
-📝 提供 817 個結構化的資安技能定義，對應 MITRE ATT&CK、NIST CSF 2.0、MITRE ATLAS 等六大框架，專為 AI agent 設計。資安團隊可用它快速建構自動化威脅偵測與回應系統；例如搭配 LLM age…
+3. apple/container
+⭐ 42,599 | 🔥 今日 +1,838 | 💻 Swift
+🔗 https://github.com/apple/container
+📝 Apple 官方 macOS 容器化工具，透過輕量級虛擬機執行 Linux 容器，適合開發者在 Mac 上測試伺服器端應用。
 
-4. garrytan/gstack
-⭐ 114,410 | 🔥 今日 +1,011 | 💻 TypeScript
-🔗 https://github.com/garrytan/gstack
-📝 一組包含 23 個工具的開發流程整合方案，涵蓋 CEO、Designer、工程主管、Release Manager、文件工程師與 QA 等角色功能，以 TypeScript 撰寫。適合新創團隊用來自動化從設計審核到部署的完整開發週期；…
+4. interviewstreet/hiring-agent
+⭐ 2,459 | 🔥 今日 +203 | 💻 Python
+🔗 https://github.com/interviewstreet/hiring-agent
+📝 AI agent 自動評估與評分履歷，適合企業招募旺季大量篩選應徵資料，提升人資部門效率。
 
-5. bytedance/deer-flow
-⭐ 74,145 | 🔥 今日 +739 | 💻 Python
-🔗 https://github.com/bytedance/deer-flow
-📝 由 ByteDance 開源的長期任務 SuperAgent 框架，支援研究、寫程式與創作，內建 sandbox 與技能管理系統。適合需要 AI agent 自主完成複雜多步驟任務的場景；例如研究人員可用它自動蒐集論文、整理數據並產出…
+5. JCodesMore/ai-website-cloner-template
+⭐ 19,643 | 🔥 今日 +692 | 💻 TypeScript
+🔗 https://github.com/JCodesMore/ai-website-cloner-template
+📝 一行指令透過 AI coding agent 複製任何網站前端設計，適合快速建立原型或學習優秀 UI 設計模式。
 
-6. koala73/worldmonitor
-⭐ 59,304 | 🔥 今日 +294 | 💻 TypeScript
-🔗 https://github.com/koala73/worldmonitor
-📝 一個即時全球情報儀表板，結合 AI 新聞聚合與地緣政治監控功能，以 TypeScript 開發。適合媒體從業者、政策分析師或跨國企業風險管理團隊；例如外交政策研究機構可用它追蹤全球各地衝突與經濟制裁的最新動態，自動產出每日情勢摘要。
+6. revfactory/harness
+⭐ 7,848 | 🔥 今日 +277 | 💻 HTML
+🔗 https://github.com/revfactory/harness
+📝 Meta-skill 框架，自動設計多 agent 團隊與技能，適合快速搭建多 agent 協作的自動化工作流程。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-24.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-25.md
