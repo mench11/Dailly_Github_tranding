@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-25
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-26
 
-1. calesthio/OpenMontage
-⭐ 20,421 | 🔥 今日 +3,719 | 💻 Python
+1. google-labs-code/design.md
+⭐ 19,906 | 🔥 今日 +1,475 | 💻 TypeScript
+🔗 https://github.com/google-labs-code/design.md
+📝 Google 推出的視覺設計規格格式，讓 coding agent 理解品牌視覺識別並自動套用正確樣式，適合大型團隊維持 design system 一致性。
+
+2. calesthio/OpenMontage
+⭐ 22,615 | 🔥 今日 +3,434 | 💻 Python
 🔗 https://github.com/calesthio/OpenMontage
-📝 全球首個開源 agent 驅動影片製作系統，內建 12 條 pipeline 與 500+ agent 技能，適合內容創作者批量產出高品質影片。
+📝 開源 agentic 影片製作系統，內建 12 條 pipeline 與 52 種工具，多 AI agent 協作自動完成剪輯到成品的流程，適合批次產出社群影片。
 
-2. ZhuLinsen/daily_stock_analysis
-⭐ 48,990 | 🔥 今日 +1,468 | 💻 Python
-🔗 https://github.com/ZhuLinsen/daily_stock_analysis
-📝 基於 LLM 的多市場股票分析系統，整合即時新聞與決策儀表板，適合量化交易者建立每日股市觀察報告。
+3. xbtlin/ai-berkshire
+⭐ 2,402 | 🔥 今日 +309 | 💻 Python
+🔗 https://github.com/xbtlin/ai-berkshire
+📝 基於 Claude Code 的價值投資研究框架，多 agent 對抗式分析降低單一觀點偏誤，適合個人投資者進行全面股票評估。
 
-3. apple/container
-⭐ 42,599 | 🔥 今日 +1,838 | 💻 Swift
+4. mauriceboe/TREK
+⭐ 6,992 | 🔥 今日 +241 | 💻 TypeScript
+🔗 https://github.com/mauriceboe/TREK
+📝 可自架的旅行規劃軟體，支援即時多人協作、互動地圖與 PWA 離線存取，適合旅伴共同編輯行程與管理預算。
+
+5. apple/container
+⭐ 43,378 | 🔥 今日 +1,351 | 💻 Swift
 🔗 https://github.com/apple/container
-📝 Apple 官方 macOS 容器化工具，透過輕量級虛擬機執行 Linux 容器，適合開發者在 Mac 上測試伺服器端應用。
+📝 Apple 官方 macOS 容器化工具，透過輕量虛擬機器原生運行 Linux 容器，免裝 Docker Desktop，適合 Swift 伺服器端開發與測試。
 
-4. interviewstreet/hiring-agent
-⭐ 2,459 | 🔥 今日 +203 | 💻 Python
-🔗 https://github.com/interviewstreet/hiring-agent
-📝 AI agent 自動評估與評分履歷，適合企業招募旺季大量篩選應徵資料，提升人資部門效率。
-
-5. JCodesMore/ai-website-cloner-template
-⭐ 19,643 | 🔥 今日 +692 | 💻 TypeScript
+6. JCodesMore/ai-website-cloner-template
+⭐ 20,781 | 🔥 今日 +1,024 | 💻 TypeScript
 🔗 https://github.com/JCodesMore/ai-website-cloner-template
-📝 一行指令透過 AI coding agent 複製任何網站前端設計，適合快速建立原型或學習優秀 UI 設計模式。
+📝 用 AI coding agent 一行指令複製任意網站結構與樣式，適合快速建立網站原型再客製化修改，節省從零切版時間。
 
-6. revfactory/harness
-⭐ 7,848 | 🔥 今日 +277 | 💻 HTML
-🔗 https://github.com/revfactory/harness
-📝 Meta-skill 框架，自動設計多 agent 團隊與技能，適合快速搭建多 agent 協作的自動化工作流程。
-
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-25.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-26.md
