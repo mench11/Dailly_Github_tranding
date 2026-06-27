@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-26
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-27
 
-1. google-labs-code/design.md
-⭐ 19,906 | 🔥 今日 +1,475 | 💻 TypeScript
+1. simplex-chat/simplex-chat
+⭐ 12,880 | 🔥 今日 +432 | 💻 Haskell
+🔗 https://github.com/simplex-chat/simplex-chat
+📝 全球首個無使用者識別碼的即時通訊網路，從協定層面保障隱私。適合記者或對隱私有極高要求的團隊取代 WhatsApp。
+
+2. google-labs-code/design.md
+⭐ 21,640 | 🔥 今日 +2,407 | 💻 TypeScript
 🔗 https://github.com/google-labs-code/design.md
-📝 Google 推出的視覺設計規格格式，讓 coding agent 理解品牌視覺識別並自動套用正確樣式，適合大型團隊維持 design system 一致性。
+📝 Google Labs 推出的格式規範，讓 AI coding agent 能持久理解設計系統。在專案放一份 DESIGN.md，agent 就能產生符合品牌規範的 UI 程式碼。
 
-2. calesthio/OpenMontage
-⭐ 22,615 | 🔥 今日 +3,434 | 💻 Python
-🔗 https://github.com/calesthio/OpenMontage
-📝 開源 agentic 影片製作系統，內建 12 條 pipeline 與 52 種工具，多 AI agent 協作自動完成剪輯到成品的流程，適合批次產出社群影片。
+3. commaai/openpilot
+⭐ 61,868 | 🔥 今日 +80 | 💻 Python
+🔗 https://github.com/commaai/openpilot
+📝 開源機器人作業系統，支援 300+ 車型的輔助駕駛升級，是 Tesla Autopilot 的開源替代方案。
 
-3. xbtlin/ai-berkshire
-⭐ 2,402 | 🔥 今日 +309 | 💻 Python
-🔗 https://github.com/xbtlin/ai-berkshire
-📝 基於 Claude Code 的價值投資研究框架，多 agent 對抗式分析降低單一觀點偏誤，適合個人投資者進行全面股票評估。
+4. kunchenguid/no-mistakes
+⭐ 3,576 | 🔥 今日 +398 | 💻 Go
+🔗 https://github.com/kunchenguid/no-mistakes
+📝 用 Go 寫的 CLI 工具，在 git push 前自動檢查常見錯誤，避免推送敏感檔案或推到錯誤分支。
 
-4. mauriceboe/TREK
-⭐ 6,992 | 🔥 今日 +241 | 💻 TypeScript
-🔗 https://github.com/mauriceboe/TREK
-📝 可自架的旅行規劃軟體，支援即時多人協作、互動地圖與 PWA 離線存取，適合旅伴共同編輯行程與管理預算。
+5. grafana/grafana
+⭐ 74,997 | 🔥 今日 +32 | 💻 TypeScript
+🔗 https://github.com/grafana/grafana
+📝 業界標準的可觀測性平台，整合 Prometheus、Loki 等多種資料來源，單一儀表板監控 metrics、logs 與 traces。
 
-5. apple/container
-⭐ 43,378 | 🔥 今日 +1,351 | 💻 Swift
-🔗 https://github.com/apple/container
-📝 Apple 官方 macOS 容器化工具，透過輕量虛擬機器原生運行 Linux 容器，免裝 Docker Desktop，適合 Swift 伺服器端開發與測試。
+6. ripienaar/free-for-dev
+⭐ 123,842 | 🔥 今日 +90 | 💻 HTML
+🔗 https://github.com/ripienaar/free-for-dev
+📝 免費 SaaS/PaaS/IaaS 服務清單，涵蓋 CI/CD、資料庫、監控等，獨立開發者與新創團隊的省錢寶典。
 
-6. JCodesMore/ai-website-cloner-template
-⭐ 20,781 | 🔥 今日 +1,024 | 💻 TypeScript
-🔗 https://github.com/JCodesMore/ai-website-cloner-template
-📝 用 AI coding agent 一行指令複製任意網站結構與樣式，適合快速建立網站原型再客製化修改，節省從零切版時間。
-
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-26.md
+📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-27.md
