@@ -1,33 +1,33 @@
-📊 GitHub 每日趨勢 Daily Trending — 2026-06-27
+📊 GitHub 每日趨勢 Daily Trending — 2026-06-29
 
 1. simplex-chat/simplex-chat
-⭐ 12,880 | 🔥 今日 +432 | 💻 Haskell
+⭐ 15,503 | 🔥 今日 +1,180 | 💻 Haskell
 🔗 https://github.com/simplex-chat/simplex-chat
-📝 全球首個無使用者識別碼的即時通訊網路，從協定層面保障隱私。適合記者或對隱私有極高要求的團隊取代 WhatsApp。
+📝 SimpleX Chat 是第一個完全不使用任何用戶識別碼的通訊網路，以 Haskell 打造，從協議層面確保 100% 隱私。適合記者與線人之間的安全通訊，或企業內部需要端對端加密的即時訊息場景。
 
-2. google-labs-code/design.md
-⭐ 21,640 | 🔥 今日 +2,407 | 💻 TypeScript
-🔗 https://github.com/google-labs-code/design.md
-📝 Google Labs 推出的格式規範，讓 AI coding agent 能持久理解設計系統。在專案放一份 DESIGN.md，agent 就能產生符合品牌規範的 UI 程式碼。
+2. ripienaar/free-for-dev
+⭐ 125,851 | 🔥 今日 +495 | 💻 HTML
+🔗 https://github.com/ripienaar/free-for-dev
+📝 精心整理的免費 SaaS、PaaS 和 IaaS 服務清單，涵蓋 CI/CD、資料庫、監控等各類工具的免費方案。獨立開發者可用這份清單快速搭建完整的開發環境，零成本上線 MVP 產品。
 
 3. commaai/openpilot
-⭐ 61,868 | 🔥 今日 +80 | 💻 Python
+⭐ 62,558 | 🔥 今日 +266 | 💻 Python
 🔗 https://github.com/commaai/openpilot
-📝 開源機器人作業系統，支援 300+ 車型的輔助駕駛升級，是 Tesla Autopilot 的開源替代方案。
+📝 開源機器人作業系統，可升級超過 300 款車型的駕駛輔助系統，提供自適應巡航和車道維持功能。適合研究自動駕駛技術的開發者實驗與改進演算法。
 
-4. kunchenguid/no-mistakes
-⭐ 3,576 | 🔥 今日 +398 | 💻 Go
-🔗 https://github.com/kunchenguid/no-mistakes
-📝 用 Go 寫的 CLI 工具，在 git push 前自動檢查常見錯誤，避免推送敏感檔案或推到錯誤分支。
+4. xbtlin/ai-berkshire
+⭐ 5,852 | 🔥 今日 +1,445 | 💻 Python
+🔗 https://github.com/xbtlin/ai-berkshire
+📝 基於 Claude Code 和 Codex 的 AI 價值投資框架，整合多位投資大師方法論並採用 multi-agent 分析。個人投資者可模擬巴菲特選股邏輯，快速篩選價值投資標的。
 
-5. grafana/grafana
-⭐ 74,997 | 🔥 今日 +32 | 💻 TypeScript
-🔗 https://github.com/grafana/grafana
-📝 業界標準的可觀測性平台，整合 Prometheus、Loki 等多種資料來源，單一儀表板監控 metrics、logs 與 traces。
+5. Robbyant/lingbot-map
+⭐ 8,372 | 🔥 今日 +372 | 💻 Python
+🔗 https://github.com/Robbyant/lingbot-map
+📝 前饋式 3D 基礎模型，能從串流資料即時重建三維場景。適合機器人導航與 AR/VR 應用，例如倉儲機器人的即時避障與路徑規劃。
 
-6. ripienaar/free-for-dev
-⭐ 123,842 | 🔥 今日 +90 | 💻 HTML
-🔗 https://github.com/ripienaar/free-for-dev
-📝 免費 SaaS/PaaS/IaaS 服務清單，涵蓋 CI/CD、資料庫、監控等，獨立開發者與新創團隊的省錢寶典。
+6. DeusData/codebase-memory-mcp
+⭐ 20,313 | 🔥 今日 +2,190 | 💻 C
+🔗 https://github.com/DeusData/codebase-memory-mcp
+📝 高效能程式碼智慧 MCP 伺服器，將程式碼庫索引為持久化知識圖譜，支援 158 種語言且查詢延遲低於毫秒。適合大型專案快速追蹤跨服務函式呼叫鏈，提升 code review 效率。
 
-📁 GitHub: https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-27.md
+📁 完整報告：https://github.com/mench11/Dailly_Github_tranding/blob/main/reports/2026-06-29.md
